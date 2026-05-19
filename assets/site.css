@@ -45,6 +45,12 @@ section{scroll-margin-top:96px;}
   padding:.55rem .8rem;
 }
 
+.navbar .nav-link.dropdown-toggle{
+  background:transparent;
+  border:0;
+  cursor:pointer;
+}
+
 .navbar .nav-link:hover,
 .navbar .nav-link:focus{
   background:var(--gf-mint);
@@ -70,8 +76,18 @@ section{scroll-margin-top:96px;}
 }
 
 .btn{
+  align-items:center;
   border-radius:999px;
+  display:inline-flex;
+  justify-content:center;
+  min-height:48px;
   font-weight:750;
+  padding:.65rem 1rem;
+}
+
+.btn.btn-sm{
+  min-height:40px;
+  padding:.45rem .85rem;
 }
 
 .btn-success{
