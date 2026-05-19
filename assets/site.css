@@ -154,6 +154,42 @@ section{scroll-margin-top:90px;}
   border-block:1px solid var(--gf-line);
 }
 
+.restaurant-band{
+  background:#fff;
+  border-block:1px solid var(--gf-line);
+}
+
+.restaurant-stat{
+  align-items:flex-start;
+  display:flex;
+  gap:.85rem;
+}
+
+.restaurant-stat .icon-pill{
+  flex:0 0 48px;
+}
+
+.route-meta{
+  color:var(--gf-muted);
+  display:flex;
+  flex-wrap:wrap;
+  gap:.75rem 1rem;
+  margin-top:1rem;
+}
+
+.route-meta span{
+  align-items:center;
+  display:inline-flex;
+  gap:.35rem;
+}
+
+.page-cta-card{
+  background:linear-gradient(135deg,var(--gf-green),#43a047);
+  border-radius:var(--radius);
+  color:#fff;
+  min-height:100%;
+}
+
 .local-list li{
   margin-bottom:.55rem;
 }
