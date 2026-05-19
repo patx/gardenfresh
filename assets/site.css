@@ -1,0 +1,174 @@
+:root{
+  --gf-green:#2e7d32;
+  --gf-green-600:#1b5e20;
+  --gf-lime:#a5d6a7;
+  --gf-cream:#f6fbf4;
+  --gf-ink:#0b0c10;
+  --gf-muted:#6b7280;
+  --gf-line:#e7edf0;
+  --shadow:0 10px 30px rgba(0,0,0,.08);
+  --radius:1.25rem;
+}
+
+html,body{
+  color:var(--gf-ink);
+  font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
+
+a{color:var(--gf-green);}
+a:hover{color:var(--gf-green-600);}
+section{scroll-margin-top:90px;}
+
+.navbar{
+  --bs-navbar-brand-font-size:1.15rem;
+  box-shadow:0 1px 0 rgba(16,24,40,.06);
+}
+
+.navbar .btn{border-radius:999px;}
+.logo-img{height:70px;width:auto;}
+
+.hero,
+.page-hero{
+  background-position:center;
+  background-size:cover;
+  position:relative;
+}
+
+.hero{
+  background-image:linear-gradient(180deg,rgba(46,125,50,.12),rgba(46,125,50,.04)),url("https://www.ronsoriginal.com/wp-content/uploads/2024/05/iStock-1048954912.jpg?q=80&w=1920&auto=format&fit=crop");
+}
+
+.page-hero{
+  background-image:linear-gradient(180deg,rgba(46,125,50,.2),rgba(46,125,50,.08)),url("https://images.unsplash.com/photo-1447175008436-054170c2e979?q=80&w=1920&auto=format&fit=crop");
+}
+
+.hero::after,
+.page-hero::after{
+  background:linear-gradient(180deg,rgba(11,12,16,.25) 0%,rgba(11,12,16,.62) 65%);
+  content:"";
+  inset:0;
+  position:absolute;
+}
+
+.hero-content{
+  position:relative;
+  z-index:1;
+}
+
+.hero .card{
+  border:0;
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+}
+
+.section-light{background:var(--gf-cream);}
+.section-title small,
+.eyebrow{
+  color:var(--gf-green-600);
+  font-size:.78rem;
+  font-weight:800;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+
+.section-title h2{font-weight:800;}
+.lead-tight{max-width:760px;}
+
+.feature,
+.product,
+.info-card{
+  background:#fff;
+  border:1px solid var(--gf-line);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+}
+
+.icon-pill{
+  align-items:center;
+  background:var(--gf-cream);
+  border-radius:999px;
+  display:inline-flex;
+  height:48px;
+  justify-content:center;
+  width:48px;
+}
+
+.product{
+  overflow:hidden;
+  transition:transform .2s ease,box-shadow .2s ease;
+}
+
+.product:hover{
+  box-shadow:var(--shadow);
+  transform:translateY(-2px);
+}
+
+.product img{
+  aspect-ratio:4/3;
+  object-fit:cover;
+  width:100%;
+}
+
+.badge-soft{
+  background:rgba(46,125,50,.12);
+  border:1px solid rgba(46,125,50,.2);
+  color:var(--gf-green-600);
+}
+
+.cta{
+  background:linear-gradient(135deg,var(--gf-green),#43a047);
+  border-radius:var(--radius);
+  color:#fff;
+}
+
+.quote{
+  border-left:4px solid var(--gf-lime);
+  color:#334155;
+  font-style:italic;
+  padding-left:1rem;
+}
+
+.link-grid{
+  display:grid;
+  gap:.75rem;
+  grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+}
+
+.link-card{
+  align-items:center;
+  background:#fff;
+  border:1px solid var(--gf-line);
+  border-radius:.9rem;
+  display:flex;
+  font-weight:700;
+  gap:.65rem;
+  padding:.85rem 1rem;
+  text-decoration:none;
+}
+
+.link-card:hover{
+  background:var(--gf-cream);
+}
+
+.service-strip{
+  border-block:1px solid var(--gf-line);
+}
+
+.local-list li{
+  margin-bottom:.55rem;
+}
+
+.footer{
+  border-top:1px solid var(--gf-line);
+}
+
+.shadow-soft{box-shadow:var(--shadow);}
+.rounded-2xl{border-radius:var(--radius);}
+
+@media (max-width:575.98px){
+  .logo-img{height:56px;}
+  .hero .d-flex,
+  .page-hero .d-flex{align-items:flex-start;}
+  .hero h1,
+  .page-hero h1{font-size:2.2rem;}
+}
