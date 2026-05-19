@@ -106,30 +106,30 @@ section{scroll-margin-top:96px;}
 }
 
 .hero{
-  background-image:url("https://www.ronsoriginal.com/wp-content/uploads/2024/05/iStock-1048954912.jpg?q=80&w=1920&auto=format&fit=crop");
+  background-image:url("images/restaurant-hero-1920.webp");
 }
 
 .page-hero{
-  background-image:var(--page-hero-image,url("https://images.unsplash.com/photo-1447175008436-054170c2e979?q=80&w=1920&auto=format&fit=crop"));
+  background-image:var(--page-hero-image,url("images/restaurant-produce-crates-1920.webp"));
 }
 
 .page-hero-restaurant{
-  --page-hero-image:url("https://images.pexels.com/photos/36430022/pexels-photo-36430022.jpeg?auto=compress&cs=tinysrgb&w=1920");
+  --page-hero-image:url("images/south-florida-produce-1920.webp");
   background-position:center 48%;
 }
 
 .page-hero-hotel{
-  --page-hero-image:url("https://images.pexels.com/photos/4873354/pexels-photo-4873354.jpeg?auto=compress&cs=tinysrgb&w=1920");
+  --page-hero-image:url("images/hotel-resort-produce-1920.webp");
   background-position:center 48%;
 }
 
 .page-hero-school{
-  --page-hero-image:url("https://upload.wikimedia.org/wikipedia/commons/2/2b/School_Lunch_%28Team_Nutrition%29_%2820210805-FNS-PH-0011%29.jpg");
+  --page-hero-image:url("images/school-institutional-produce.jpg");
   background-position:center 44%;
 }
 
 .page-hero-marine{
-  --page-hero-image:url("https://images.pexels.com/photos/19750413/pexels-photo-19750413.jpeg?auto=compress&cs=tinysrgb&w=1920");
+  --page-hero-image:url("images/yacht-marine-provisioning-1920.jpeg");
   background-position:center 58%;
 }
 

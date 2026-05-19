@@ -1,0 +1,24 @@
+{
+  "short_name": "Garden Fresh",
+  "name": "Garden Fresh Online Ordering",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "productivity"
+  ],
+  "start_url": "https://gardenfresh.vegy.app/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#f8f9fa",
+  "background_color": "#f8f9fa"
+}
