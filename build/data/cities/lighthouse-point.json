@@ -1,0 +1,41 @@
+{
+ "slug": "lighthouse-point",
+ "name": "Lighthouse Point",
+ "county": "broward",
+ "lat": 26.2756,
+ "lng": -80.0872,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "the marina and yacht club dining rooms",
+  "the Federal Highway restaurant corridor",
+  "waterfront kitchens along the Intracoastal canals"
+ ],
+ "kitchen_profile": [
+  "waterfront and marina restaurants",
+  "yacht club kitchens",
+  "neighborhood bistros and cafes"
+ ],
+ "intro": [
+  "Lighthouse Point is a boater's city — more than 18 miles of canals, a working marina, and a dining tradition anchored by waterfront institutions reachable almost as easily by boat as by car. Its kitchens skew intimate and quality-driven: yacht club dining rooms, seafood houses, and neighborhood bistros along Federal Highway that feed a discerning, repeat local clientele.",
+  "We are barely ten minutes up the road from our Pompano Beach warehouse, which makes Lighthouse Point one of the earliest and most reliable stops on the north Broward coastal run. Club chefs use us for split cases and specialty items that keep small-volume menus interesting; waterfront kitchens lean on the 7-day schedule through the winter boating season when covers climb."
+ ],
+ "route_note": "About 10 minutes north of our Pompano Beach warehouse via Federal Highway — an early stop on the coastal route, well before lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Can you supply small yacht club and marina kitchens in Lighthouse Point?",
+   "a": "Yes. Split cases and by-the-pound options are built for club kitchens that need variety without full-case volume, and our drivers know the marina access points."
+  },
+  {
+   "q": "Do you deliver during the winter boating season rush?",
+   "a": "Yes. Routes run seven days a week year-round, and standing orders can be stepped up through season when waterfront covers climb."
+  }
+ ],
+ "nearby": [
+  "pompano-beach",
+  "deerfield-beach",
+  "lauderdale-by-the-sea",
+  "boca-raton",
+  "margate"
+ ],
+ "cta_text": "Tell us whether you run a yacht club galley, waterfront dining room, or neighborhood bistro — we will size cases and timing to a Lighthouse Point kitchen."
+}

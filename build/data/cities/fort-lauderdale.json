@@ -1,0 +1,44 @@
+{
+ "slug": "fort-lauderdale",
+ "name": "Fort Lauderdale",
+ "county": "broward",
+ "lat": 26.1224,
+ "lng": -80.1373,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "Las Olas Boulevard",
+  "the beachfront along A1A",
+  "Flagler Village",
+  "the 17th Street and marina corridor",
+  "downtown and the Riverwalk"
+ ],
+ "kitchen_profile": [
+  "chef-driven Las Olas dining rooms",
+  "beachfront hotel and resort kitchens",
+  "marina and yacht-provisioning galleys",
+  "breweries and Flagler Village kitchens"
+ ],
+ "intro": [
+  "Fort Lauderdale is the center of gravity for Broward dining — Las Olas tasting menus, beachfront hotel banquets, Flagler Village's newer chef-driven rooms, and the marina kitchens of the 17th Street corridor that feed the yachting capital of the world. Volume is high, standards are higher, and menus here change faster than anywhere else in the county.",
+  "We run Fort Lauderdale as a cornerstone of the morning routes, about twenty minutes south of our Pompano Beach warehouse. Chefs use us for the full range — staple cases for prep-heavy hotel kitchens, split cases and microgreens for tasting menus, and dockside provisioning through our marine division for the boats. When a special sells out and the menu pivots at 10 PM, the midnight cutoff keeps next-day service intact."
+ ],
+ "route_note": "About 20 minutes south of our Pompano Beach warehouse on I-95 — a cornerstone stop on the morning routes, covering Las Olas to the marina district.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Las Olas and beachfront restaurants in Fort Lauderdale?",
+   "a": "Yes. Las Olas, A1A beachfront, Flagler Village, and the 17th Street marina corridor are all daily stops, with timing set around each kitchen's receiving window."
+  },
+  {
+   "q": "Can you provision yachts and marina kitchens in Fort Lauderdale?",
+   "a": "Yes. Our marine division delivers dockside across the marina district, with pack-out suited to galley refrigeration and departure-timed scheduling."
+  }
+ ],
+ "nearby": [
+  "lauderdale-by-the-sea",
+  "wilton-manors",
+  "oakland-park",
+  "dania-beach",
+  "plantation"
+ ],
+ "cta_text": "Tell us your receiving window, menu staples, and weekly volume for Las Olas, beach, hotel, or waterfront service. We will align pack sizes and route timing to your Fort Lauderdale kitchen."
+}

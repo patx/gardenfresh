@@ -1,0 +1,36 @@
+{
+  "broward": {
+    "slug": "broward-county",
+    "name": "Broward County",
+    "page": "broward-county-wholesale-produce.html",
+    "title": "Broward County Wholesale Produce Delivery for Restaurants | Garden Fresh",
+    "meta_description": "Wholesale produce delivery across Broward County, FL — refrigerated routes from our Pompano Beach warehouse to restaurants, hotels, schools, and foodservice kitchens. Split cases, no minimums, 7-day service.",
+    "hero_image": "restaurant-produce-crates",
+    "intro": [
+      "Broward County is our home turf. Our warehouse sits in Pompano Beach, which means Broward kitchens are first on the trucks every morning — most stops land within 10 to 35 minutes of dispatch. From the beach hotels of Fort Lauderdale to the family restaurants of Pembroke Pines and the country clubs of Parkland, we run refrigerated routes across the county seven days a week.",
+      "Chefs use us for the full range: leafy greens, tomatoes, herbs, citrus, tropical fruit, berries, roots, mushrooms, microgreens, organics, and specialty produce. Full cases, split cases, and by-the-pound options mean a two-person cafe and a 400-seat banquet kitchen can both order what they actually need — with no delivery fees, no fuel charges, and no order minimums."
+    ],
+    "groups": {
+      "Coastal": ["hallandale-beach", "hollywood", "dania-beach", "fort-lauderdale", "lauderdale-by-the-sea", "pompano-beach", "lighthouse-point", "deerfield-beach"],
+      "Central": ["oakland-park", "wilton-manors", "plantation", "lauderhill", "lauderdale-lakes", "sunrise", "davie", "tamarac"],
+      "West & South": ["coral-springs", "parkland", "margate", "coconut-creek", "north-lauderdale", "weston", "cooper-city", "pembroke-pines", "miramar"]
+    }
+  },
+  "palm-beach": {
+    "slug": "palm-beach-county",
+    "name": "Palm Beach County",
+    "page": "palm-beach-county-wholesale-produce.html",
+    "title": "Palm Beach County Wholesale Produce Delivery for Restaurants | Garden Fresh",
+    "meta_description": "Wholesale produce delivery across Palm Beach County, FL — refrigerated routes to restaurants, resorts, country clubs, and caterers from Boca Raton to Jupiter. Split cases, no minimums, 7-day service.",
+    "hero_image": "south-florida-produce",
+    "intro": [
+      "Palm Beach County runs on hospitality — oceanfront resorts, private clubs, chef-driven dining rooms on Atlantic Avenue and Clematis Street, equestrian-season catering in Wellington, and golf-course kitchens from Boca Raton to Tequesta. Our refrigerated trucks leave Pompano Beach at 4 AM and work north through the county, so most Palm Beach kitchens receive well before lunch prep.",
+      "We supply the staples and the show pieces: greens, tomatoes, herbs, citrus, berries, tropical fruit, roots, organics, microgreens, and edible flowers. Split cases and by-the-pound options keep food cost honest during season swings, and standing orders keep pars steady when the snowbirds arrive and covers double."
+    ],
+    "groups": {
+      "South County": ["boca-raton", "highland-beach", "delray-beach", "boynton-beach"],
+      "Central County": ["lantana", "lake-worth-beach", "palm-springs", "greenacres", "wellington", "royal-palm-beach", "west-palm-beach", "palm-beach"],
+      "North County & Glades": ["riviera-beach", "lake-park", "north-palm-beach", "palm-beach-gardens", "juno-beach", "jupiter", "tequesta", "belle-glade"]
+    }
+  }
+}

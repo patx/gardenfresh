@@ -1,0 +1,43 @@
+{
+ "slug": "plantation",
+ "name": "Plantation",
+ "county": "broward",
+ "lat": 26.1276,
+ "lng": -80.2331,
+ "hero_image": "south-florida-produce",
+ "dining_districts": [
+  "Plantation Walk",
+  "the University Drive restaurant corridor",
+  "the Broward Mall and Fashion Mall redevelopment dining",
+  "the office corridors along Cypress Creek and Pine Island"
+ ],
+ "kitchen_profile": [
+  "office-corridor lunch kitchens",
+  "family dining rooms",
+  "hotel and conference kitchens",
+  "caterers"
+ ],
+ "intro": [
+  "Plantation is Broward's office town — headquarters campuses and mid-rise corridors that keep a serious weekday lunch economy running, anchored by the newer Plantation Walk mixed-use district and the long restaurant row along University Drive. Hotels and conference kitchens feed the business traffic; family dining rooms and caterers cover nights and weekends.",
+  "Lunch-driven kitchens live and die by morning delivery, so Plantation stops are scheduled early on the central Broward run — about twenty minutes from our Pompano Beach warehouse. Weekday-heavy accounts run five-day standing orders that skip weekends without penalty; hotel and banquet kitchens flex around the conference calendar; and everyone gets the midnight cutoff when tomorrow's booking sheet changes tonight."
+ ],
+ "route_note": "About 20 minutes from our Pompano Beach warehouse — an early stop on the central Broward run, timed for lunch-driven kitchens.",
+ "faqs_unique": [
+  {
+   "q": "Can Plantation kitchens run weekday-only delivery schedules?",
+   "a": "Yes. Standing orders can run any pattern — five-day weekday schedules are common for office-corridor kitchens, with weekend adds only when you book events."
+  },
+  {
+   "q": "Do you deliver to Plantation Walk and University Drive restaurants?",
+   "a": "Yes. Both are regular stops on the central Broward morning route, with timing set to each kitchen's receiving window."
+  }
+ ],
+ "nearby": [
+  "sunrise",
+  "lauderhill",
+  "davie",
+  "fort-lauderdale",
+  "lauderdale-lakes"
+ ],
+ "cta_text": "Tell us what your office-corridor lunch service, family dining room, catering team, or hospitality kitchen needs, and we will shape your produce order around real demand."
+}

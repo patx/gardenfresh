@@ -1,0 +1,41 @@
+{
+ "slug": "parkland",
+ "name": "Parkland",
+ "county": "broward",
+ "lat": 26.3101,
+ "lng": -80.2372,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "the Heron Bay and Parkland Golf & Country Club dining rooms",
+  "the Riverside Drive / Hillsboro plazas",
+  "the Loxahatchee Road corridor toward the Everglades edge"
+ ],
+ "kitchen_profile": [
+  "country club kitchens",
+  "upscale neighborhood restaurants",
+  "caterers serving private events"
+ ],
+ "intro": [
+  "Parkland sits at Broward's quiet northwest edge — a low-density, high-expectation city where most professional cooking happens inside country club dining rooms and a handful of upscale plaza restaurants. Club members here eat like regulars because they are: the same faces at lunch after golf, the same families at Sunday dinner, and a member survey waiting for any kitchen that slips.",
+  "Member-grade consistency is a produce spec, not a slogan — same size, same trim, same ripeness, every case. Club chefs run standing orders against that spec and use split cases for wine dinners, member-guest tournaments, and holiday banquets. Parkland caps the northwest run out of Pompano Beach, about twenty-five minutes door to door."
+ ],
+ "route_note": "About 25 minutes from our Pompano Beach warehouse at the top of the northwest Broward run — club and plaza stops land well before lunch.",
+ "faqs_unique": [
+  {
+   "q": "Can you hold consistent produce specs for Parkland club kitchens?",
+   "a": "Yes. Standing orders lock a spec — size, trim, ripeness — and our team flags substitutions before they ship, not after they arrive."
+  },
+  {
+   "q": "Do you handle tournament and banquet volume for Parkland clubs?",
+   "a": "Yes. Layer event volume on top of your standing baseline by the midnight cutoff — member-guest weekends and holiday banquets are routine adds."
+  }
+ ],
+ "nearby": [
+  "coral-springs",
+  "coconut-creek",
+  "deerfield-beach",
+  "boca-raton",
+  "margate"
+ ],
+ "cta_text": "Tell us your member covers, event calendar, and produce spec — we will keep a Parkland club kitchen consistent enough that nobody notices, which is the point."
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "deerfield-beach",
+ "name": "Deerfield Beach",
+ "county": "broward",
+ "lat": 26.3184,
+ "lng": -80.0998,
+ "hero_image": "south-florida-produce",
+ "dining_districts": [
+  "the beachfront and International Fishing Pier district",
+  "the Cove waterfront dining pocket",
+  "the Hillsboro Boulevard corridor",
+  "hotel kitchens along A1A"
+ ],
+ "kitchen_profile": [
+  "beach-area restaurants and tiki bars",
+  "waterfront dining rooms at the Cove",
+  "hotel and resort kitchens",
+  "catering operations"
+ ],
+ "intro": [
+  "Deerfield Beach cooking runs from toes-in-the-sand casual at the pier to polished waterfront service at the Cove, where Intracoastal dining rooms fill up every season. Add the beachfront hotels along A1A and the year-round neighborhood spots on Hillsboro Boulevard, and you have kitchens with very different volumes that all need the same thing: produce that arrives cold, early, and exactly as ordered.",
+  "We are just over the Pompano line — roughly ten minutes from our warehouse — so Deerfield kitchens receive on the first leg of the north coastal route. Beach bars run standing orders for citrus and garnish; hotel kitchens flex banquet volume against occupancy; and Cove dining rooms use split cases to keep specials moving without waste."
+ ],
+ "route_note": "Roughly 10–12 minutes from our Pompano Beach warehouse — first-leg delivery on the north Broward coastal route, ahead of morning prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to beachfront restaurants near the Deerfield pier?",
+   "a": "Yes. Pier and A1A kitchens are early stops on the coastal run, and drivers work around beach traffic and loading constraints on the barrier island."
+  },
+  {
+   "q": "Can hotel kitchens in Deerfield Beach flex volume with occupancy?",
+   "a": "Yes. Standing orders handle the baseline and case volume can step up for full-house weekends and events with a simple order adjustment by the nightly cutoff."
+  }
+ ],
+ "nearby": [
+  "pompano-beach",
+  "lighthouse-point",
+  "boca-raton",
+  "coconut-creek",
+  "parkland"
+ ],
+ "cta_text": "Tell us what your beach-area dining room, cafe, club, or catering kitchen orders most often, and we will shape a delivery plan around your prep schedule and guest volume."
+}

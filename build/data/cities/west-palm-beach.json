@@ -1,0 +1,44 @@
+{
+ "slug": "west-palm-beach",
+ "name": "West Palm Beach",
+ "county": "palm-beach",
+ "lat": 26.7153,
+ "lng": -80.0534,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "Clematis Street",
+  "Rosemary Square and The Square district",
+  "Grandview Public Market and the warehouse district",
+  "Northwood Village",
+  "the convention center and arena corridor"
+ ],
+ "kitchen_profile": [
+  "downtown chef-driven dining rooms",
+  "food hall and warehouse-district kitchens",
+  "hotel, convention, and arena kitchens",
+  "caterers"
+ ],
+ "intro": [
+  "West Palm Beach is the county's downtown — Clematis Street and The Square stacking chef-driven rooms and rooftop bars, the warehouse district's food-hall kitchens turning out some of the area's most inventive cooking, Northwood Village adding an arts-district scene, and the convention center, arena, and a wave of new office towers feeding a serious hospitality economy that no longer slows much in summer.",
+  "The produce needs run the full spectrum, and the route is built for it: staple case volume for hotel and convention kitchens, split cases and specialty items for food-hall stalls and tasting menus, bar-program citrus on its own standing orders. Trucks out of Pompano Beach reach downtown in about forty-five minutes, seven days a week, with the midnight cutoff covering event-driven swings."
+ ],
+ "route_note": "About 45 minutes from our Pompano Beach warehouse — downtown, warehouse-district, and convention-corridor stops run daily.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Clematis Street and The Square restaurants?",
+   "a": "Yes. Downtown West Palm is a daily route anchor — drivers work each property's service access and time deliveries to your receiving window."
+  },
+  {
+   "q": "Can food-hall and warehouse-district kitchens order small volumes?",
+   "a": "Yes. Stall-sized kitchens use split cases and by-the-pound items with no minimums — the same terms as full-line restaurants."
+  }
+ ],
+ "nearby": [
+  "palm-beach",
+  "riviera-beach",
+  "lake-park",
+  "palm-springs",
+  "wellington"
+ ],
+ "cta_text": "Share your downtown, convention, hotel, waterfront, or neighborhood restaurant needs, and we will help set a delivery plan that matches your West Palm Beach service."
+}

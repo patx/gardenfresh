@@ -1,0 +1,41 @@
+{
+ "slug": "cooper-city",
+ "name": "Cooper City",
+ "county": "broward",
+ "lat": 26.0573,
+ "lng": -80.2717,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "the Stirling Road restaurant plazas",
+  "Embassy Lakes and Flamingo Road dining pockets",
+  "the Griffin Road corridor"
+ ],
+ "kitchen_profile": [
+  "family-owned neighborhood restaurants",
+  "pizzerias and casual dining rooms",
+  "school and community kitchens"
+ ],
+ "intro": [
+  "Cooper City is family-dinner territory — a bedroom community whose restaurant scene lives in the plazas along Stirling, Griffin, and Flamingo: pizzerias, family-owned Italian and Latin kitchens, breakfast cafes, and the school and community kitchens that come with one of Broward's most family-dense cities. Volume is steady and loyalty is everything; these dining rooms feed the same families every week.",
+  "Steady kitchens deserve steady supply. Standing orders cover the sauce tomatoes, salad greens, and prep staples that never leave the menu; split cases handle the specials; and the route out of Pompano Beach lands mid-morning, seven days a week, with no delivery fees eating into a neighborhood restaurant's margins."
+ ],
+ "route_note": "About 35 minutes southwest of our Pompano Beach warehouse on the central Broward run — plaza stops land mid-morning, before lunch service.",
+ "faqs_unique": [
+  {
+   "q": "Can a small family restaurant in Cooper City afford wholesale delivery?",
+   "a": "Yes — that is the point. No minimums, no delivery fees, and split cases mean a neighborhood kitchen pays wholesale prices without wholesale-warehouse volume."
+  },
+  {
+   "q": "Do you supply school and community kitchens in Cooper City?",
+   "a": "Yes. We run institutional accounts with consistent case sizes, reliable windows, and menu-cycle planning for schools and community programs."
+  }
+ ],
+ "nearby": [
+  "davie",
+  "pembroke-pines",
+  "weston",
+  "plantation",
+  "miramar"
+ ],
+ "cta_text": "Tell us the staples your family kitchen runs through every week — we will set pars that protect food cost and keep the walk-in honest."
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "hollywood",
+ "name": "Hollywood",
+ "county": "broward",
+ "lat": 26.0112,
+ "lng": -80.1495,
+ "hero_image": "organic-produce",
+ "dining_districts": [
+  "the Hollywood Beach Broadwalk",
+  "downtown Hollywood around Hollywood Boulevard and Harrison Street",
+  "Young Circle's dining ring",
+  "the Seminole Hard Rock corridor on State Road 7"
+ ],
+ "kitchen_profile": [
+  "Broadwalk beachfront restaurants",
+  "downtown chef-driven dining rooms",
+  "casino-corridor and hotel kitchens",
+  "caterers and banquet operations"
+ ],
+ "intro": [
+  "Hollywood feeds two very different crowds at once: the Broadwalk's two-and-a-half miles of oceanfront restaurants running high-volume, all-day service for beach traffic, and the downtown blocks around Harrison Street and Young Circle, where chef-driven rooms cook for locals year-round. West on State Road 7, the Seminole Hard Rock corridor adds casino-scale banquet and outlet volume that few suppliers handle gracefully.",
+  "We run Hollywood on the south Broward route out of Pompano Beach — about thirty minutes door to door — with Broadwalk stops timed before beach traffic locks up the barrier island. Beachfront kitchens run big standing orders for staples; downtown rooms use split cases to keep tighter menus interesting; and banquet kitchens step volume up and down against the events calendar."
+ ],
+ "route_note": "About 30 minutes south of our Pompano Beach warehouse — Broadwalk stops are timed ahead of beach traffic, downtown and SR-7 follow on the same run.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Broadwalk restaurants on Hollywood Beach?",
+   "a": "Yes. Broadwalk and beachfront kitchens receive early, before the beach fills in — drivers know the barrier island loading constraints and work your receiving window."
+  },
+  {
+   "q": "Can you supply casino-corridor and banquet kitchens near the Hard Rock?",
+   "a": "Yes. High-volume banquet and outlet kitchens on the SR-7 corridor can run case-volume standing orders that flex with the events calendar."
+  }
+ ],
+ "nearby": [
+  "dania-beach",
+  "hallandale-beach",
+  "davie",
+  "pembroke-pines",
+  "miramar"
+ ],
+ "cta_text": "Tell us your weekly needs for Broadwalk dining, hotel service, neighborhood restaurants, or catering work. We will help match delivery timing and product mix to your Hollywood operation."
+}

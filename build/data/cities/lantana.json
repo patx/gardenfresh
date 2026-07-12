@@ -1,0 +1,41 @@
+{
+ "slug": "lantana",
+ "name": "Lantana",
+ "county": "palm-beach",
+ "lat": 26.5868,
+ "lng": -80.052,
+ "hero_image": "tomatoes",
+ "dining_districts": [
+  "the Ocean Avenue waterfront dining pocket",
+  "the marina and Intracoastal kitchens",
+  "the Dixie Highway corridor"
+ ],
+ "kitchen_profile": [
+  "waterfront and marina restaurants",
+  "seafood houses",
+  "neighborhood cafes and bars"
+ ],
+ "intro": [
+  "Lantana is a small waterfront town with an outsized food reputation, anchored by the Ocean Avenue bridge district where Intracoastal dining rooms and one of Florida's most famous old key lime houses pull crowds from all over the county. Around the marina, seafood kitchens and dockside bars keep a working-waterfront pace; along Dixie Highway, cafes and neighborhood spots serve the locals the tourists never meet.",
+  "Small-town kitchens with big weekend swings need a supplier that scales both directions. Standing orders carry the fry-station and garnish staples; split cases handle the specials board; and the midnight cutoff lets a slammed Saturday restock for Sunday. Lantana rides our central Palm Beach leg, about forty minutes from the Pompano Beach warehouse."
+ ],
+ "route_note": "About 40 minutes north of our Pompano Beach warehouse — Ocean Avenue and marina stops land in the morning window on the central Palm Beach leg.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Lantana's waterfront and marina restaurants?",
+   "a": "Yes. The Ocean Avenue bridge district and marina kitchens are regular stops, timed around bridge traffic and morning dock activity."
+  },
+  {
+   "q": "Can a small Lantana kitchen restock between weekend services?",
+   "a": "Yes. Order by midnight after Saturday service and the truck arrives Sunday morning — routes run seven days."
+  }
+ ],
+ "nearby": [
+  "lake-worth-beach",
+  "boynton-beach",
+  "palm-springs",
+  "greenacres",
+  "west-palm-beach"
+ ],
+ "cta_text": "Share your marina-adjacent, waterfront, cafe, or local restaurant needs, and we will help set produce quantities and delivery timing for your Lantana kitchen."
+}

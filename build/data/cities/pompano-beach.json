@@ -1,0 +1,43 @@
+{
+ "slug": "pompano-beach",
+ "name": "Pompano Beach",
+ "county": "broward",
+ "lat": 26.2379,
+ "lng": -80.1248,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "the Pompano Beach Fishing Village and pier district",
+  "the Atlantic Boulevard corridor",
+  "Harbor Village and the beachfront hotels",
+  "the Federal Highway restaurant strip"
+ ],
+ "kitchen_profile": [
+  "beachfront and pier-district restaurants",
+  "marina and waterfront kitchens",
+  "neighborhood cafes and diners",
+  "hotel and banquet kitchens"
+ ],
+ "intro": [
+  "Pompano Beach is home turf — our warehouse sits at 550 NE 28th Ct, minutes from the pier district, so no kitchen in our two-county service area gets produce closer to the truck's first stop. The city's dining scene has grown up fast around the rebuilt Fishing Village and pier, with chef-driven seafood houses, beach bars, and hotel kitchens joining the long-standing neighborhood spots along Atlantic Boulevard and Federal Highway.",
+  "Being this close means real flexibility: last-minute add-ons, second runs when route capacity allows, and will-call pickup for chefs who want to grab something themselves. Whether you run a waterfront dining room near the pier, a galley-supplied marina operation, or a breakfast cafe inland, we can match delivery timing to your receiving window almost to the minute."
+ ],
+ "route_note": "Our warehouse is in Pompano Beach itself — most stops are under 10 minutes from the dock, first out on the morning routes.",
+ "faqs_unique": [
+  {
+   "q": "Can Pompano Beach restaurants pick up orders at your warehouse?",
+   "a": "Yes. We are local — 550 NE 28th Ct, off Copans Road. Chefs can arrange will-call pickup, and because you are minutes from our cooler, same-day add-ons are often possible when stock allows."
+  },
+  {
+   "q": "Do you deliver to the Fishing Village and pier-district restaurants?",
+   "a": "Yes. Pier-district and beachfront kitchens are among the first stops of the day, and we schedule around the tight alley and dock access some beachfront buildings have."
+  }
+ ],
+ "nearby": [
+  "lighthouse-point",
+  "lauderdale-by-the-sea",
+  "deerfield-beach",
+  "fort-lauderdale",
+  "margate"
+ ],
+ "cta_text": "Share your restaurant, marina-adjacent, hotel, or market needs near our home base, and we will help set the right delivery cadence, staple cases, and specialty items."
+}

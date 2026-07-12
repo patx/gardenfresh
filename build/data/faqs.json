@@ -1,0 +1,52 @@
+[
+  {
+    "id": "split-cases",
+    "q": "Can {city} restaurants order split cases?",
+    "a": "Yes. We offer full cases, split cases, and select by-the-pound items so {city} kitchens can control waste and food cost while keeping menus fresh."
+  },
+  {
+    "id": "next-day-cutoff",
+    "q": "What is the cutoff for next-day delivery to {city}?",
+    "a": "Most produce orders can be placed by 12 AM for next-day delivery. We confirm timing based on route position, item availability, and your receiving window."
+  },
+  {
+    "id": "fees-minimums",
+    "q": "Are there delivery fees, fuel charges, or order minimums?",
+    "a": "No. We do not add delivery fees or fuel charges on local routes, and there is no order minimum for standard account setup."
+  },
+  {
+    "id": "delivery-days",
+    "q": "How often can {city} kitchens receive deliveries?",
+    "a": "We run refrigerated routes seven days a week, so {city} restaurants can receive daily deliveries or set a schedule that matches their prep calendar."
+  },
+  {
+    "id": "standing-orders",
+    "q": "Do you support standing orders for {city} restaurants?",
+    "a": "Yes. Standing orders work well for weekly pars and staple produce, and they can be adjusted as menus, reservations, weather, and seasonal demand change."
+  },
+  {
+    "id": "online-ordering",
+    "q": "Can {city} kitchens order online?",
+    "a": "Yes. Once your account is set up, you can browse the catalog and place orders online, or send orders by phone or text — whatever fits your workflow."
+  },
+  {
+    "id": "organic",
+    "q": "Can you supply certified organic produce in {city}?",
+    "a": "Yes. We stock certified organic staples and can source additional organic items on request, delivered on the same refrigerated {county} routes."
+  },
+  {
+    "id": "specialty",
+    "q": "Do you deliver specialty produce to {city}?",
+    "a": "Yes. Microgreens, edible flowers, specialty mushrooms, tropical fruit, and seasonal specialty items ride the same route as your staple cases."
+  },
+  {
+    "id": "cold-chain",
+    "q": "How is produce kept fresh on the way to {city}?",
+    "a": "Every route runs in refrigerated trucks from our Pompano Beach warehouse, so cold chain holds from our cooler to your walk-in."
+  },
+  {
+    "id": "account-setup",
+    "q": "How does a {city} restaurant set up an account?",
+    "a": "Send your business name, delivery address, receiving window, and a sample prep list through the contact form or by phone at (561) 254-0241. We will build an order guide and set up online ordering."
+  }
+]

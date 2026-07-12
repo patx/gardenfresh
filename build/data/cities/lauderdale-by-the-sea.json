@@ -1,0 +1,41 @@
+{
+ "slug": "lauderdale-by-the-sea",
+ "name": "Lauderdale-by-the-Sea",
+ "county": "broward",
+ "lat": 26.1912,
+ "lng": -80.0965,
+ "hero_image": "restaurant-produce-crates",
+ "dining_districts": [
+  "the Commercial Boulevard beach village",
+  "El Mar Drive hotel and inn kitchens",
+  "the Anglin's Pier dining cluster"
+ ],
+ "kitchen_profile": [
+  "beach village restaurants and cafes",
+  "boutique inn and hotel kitchens",
+  "seafood houses near the pier"
+ ],
+ "intro": [
+  "Lauderdale-by-the-Sea packs one of Broward's densest little dining villages into a few walkable blocks around Commercial Boulevard and Anglin's Pier. Seafood houses, sidewalk cafes, and boutique inn kitchens all share the same reality: tiny storage, tight deliveries, and a guest count that swells every winter when the seasonal crowd arrives.",
+  "That is exactly the kitchen profile our model fits. Split cases and by-the-pound ordering keep walk-ins small and product fresh; daily route frequency means you can order for tomorrow instead of for the week. We stage the beach village stops early from our Pompano Beach warehouse — about fifteen minutes up the road — before the village streets fill with beach traffic."
+ ],
+ "route_note": "About 15 minutes south of our Pompano Beach warehouse along the coast — deliveries land before the beach village streets get busy.",
+ "faqs_unique": [
+  {
+   "q": "Can you handle small-storage beach village kitchens?",
+   "a": "Yes. Most Lauderdale-by-the-Sea kitchens order smaller quantities more often — daily routes and split cases are built for exactly that."
+  },
+  {
+   "q": "When do deliveries reach the Commercial Boulevard village?",
+   "a": "Early morning, before beach traffic builds. Drivers know the village loading quirks and work around your receiving window."
+  }
+ ],
+ "nearby": [
+  "fort-lauderdale",
+  "pompano-beach",
+  "oakland-park",
+  "wilton-manors",
+  "lighthouse-point"
+ ],
+ "cta_text": "Tell us your cafe, inn, or seafood house needs in the beach village, and we will keep a small kitchen stocked without burying your walk-in."
+}

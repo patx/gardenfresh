@@ -1,0 +1,42 @@
+{
+ "slug": "delray-beach",
+ "name": "Delray Beach",
+ "county": "palm-beach",
+ "lat": 26.4615,
+ "lng": -80.0728,
+ "hero_image": "organic-produce",
+ "dining_districts": [
+  "Atlantic Avenue",
+  "Pineapple Grove",
+  "the beachside hotel kitchens along A1A",
+  "the Congress Avenue corridor"
+ ],
+ "kitchen_profile": [
+  "Atlantic Avenue chef-driven dining rooms",
+  "brunch-heavy cafes and bars",
+  "beachside hotel kitchens"
+ ],
+ "intro": [
+  "Atlantic Avenue is one of Florida's great restaurant streets — a mile-plus of chef-driven dining rooms, rooftop bars, and brunch patios running shoulder to shoulder from Swinton to the ocean, with Pineapple Grove's arts-district kitchens adding depth a block north. The Avenue's rhythm is brutal: brunch volume that rivals dinner, season that doubles everything, and menus that pivot fast in a town where diners chase what's new.",
+  "That rhythm is why Delray kitchens use us. Trucks out of Pompano Beach — thirty minutes south — land before prep; split cases keep experimental menus honest; the bar programs run their own citrus and garnish standing orders; and when Saturday brunch wipes out the walk-in, the midnight cutoff has Sunday covered."
+ ],
+ "route_note": "About 30 minutes from our Pompano Beach warehouse — Atlantic Avenue and beachside stops land early on the Palm Beach coastal run.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Atlantic Avenue restaurants before brunch service?",
+   "a": "Yes. Weekend routes run like weekdays with 4 AM dispatch, so Avenue kitchens have produce racked before brunch prep — the heaviest service of the week here."
+  },
+  {
+   "q": "Can bar programs on the Avenue run separate citrus and garnish orders?",
+   "a": "Yes. Many Delray bars hold their own standing order for juice citrus, herbs, and garnish produce, delivered alongside the kitchen's cases."
+  }
+ ],
+ "nearby": [
+  "boynton-beach",
+  "highland-beach",
+  "boca-raton",
+  "lake-worth-beach",
+  "greenacres"
+ ],
+ "cta_text": "Share your Atlantic Avenue service rhythm, brunch volume, bar garnish needs, or event calendar. We will help your Delray Beach kitchen set produce pars that hold up through busy shifts."
+}

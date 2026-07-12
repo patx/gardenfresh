@@ -1,0 +1,42 @@
+{
+ "slug": "davie",
+ "name": "Davie",
+ "county": "broward",
+ "lat": 26.0765,
+ "lng": -80.2521,
+ "hero_image": "roots-tubers",
+ "dining_districts": [
+  "the university district around Nova Southeastern and Broward College",
+  "downtown Davie's western-themed strip",
+  "the Tower Shops and University Drive corridor",
+  "Pine Island Road's restaurant plazas"
+ ],
+ "kitchen_profile": [
+  "university and campus dining operations",
+  "family restaurants and barbecue houses",
+  "caterers and event kitchens"
+ ],
+ "intro": [
+  "Davie is Broward's college town with a cowboy streak — a university district feeding tens of thousands of students around Nova Southeastern, plus a downtown that keeps its western character with barbecue joints, ranch-style steakhouses, and family restaurants. The University Drive corridor fills in the rest: plazas of independent kitchens, breakfast spots, and caterers serving the town's event barns and rodeo arena.",
+  "Campus dining runs on schedule and scale: consistent case volumes, term-calendar swings, and documentation — the same institutional produce program we run for schools across the county. The independents get the other half of our model: split cases, no minimums, and a thirty-minute route from Pompano Beach that puts product in the walk-in before morning prep."
+ ],
+ "route_note": "About 30 minutes southwest of our Pompano Beach warehouse — university-area and downtown stops share the central Broward morning run.",
+ "faqs_unique": [
+  {
+   "q": "Can you supply campus and university dining in Davie?",
+   "a": "Yes. We run institutional accounts with consistent case sizes, scheduled windows, and volumes that follow the academic calendar — plus documentation where food-service programs require it."
+  },
+  {
+   "q": "Do you deliver to caterers and event kitchens in Davie?",
+   "a": "Yes. Caterers can hold a standing baseline and layer event volume on top by the midnight cutoff — useful for rodeo weekends and festival season."
+  }
+ ],
+ "nearby": [
+  "cooper-city",
+  "plantation",
+  "dania-beach",
+  "weston",
+  "sunrise"
+ ],
+ "cta_text": "Share your menu staples, delivery dock details, and busiest service periods. We will help Davie restaurants, catering teams, and university-area kitchens get produce when they need it."
+}

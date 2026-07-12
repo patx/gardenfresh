@@ -1,0 +1,41 @@
+{
+ "slug": "royal-palm-beach",
+ "name": "Royal Palm Beach",
+ "county": "palm-beach",
+ "lat": 26.7084,
+ "lng": -80.2306,
+ "hero_image": "south-florida-produce",
+ "dining_districts": [
+  "the Southern Boulevard restaurant corridor",
+  "the Royal Palm Beach Boulevard plazas",
+  "the Okeechobee Boulevard strip"
+ ],
+ "kitchen_profile": [
+  "family restaurants and diners",
+  "Latin and Caribbean kitchens",
+  "caterers and community kitchens"
+ ],
+ "intro": [
+  "Royal Palm Beach anchors the western communities' everyday dining — family restaurants, diners, Latin and Caribbean kitchens, and pizzerias spread along Southern and Okeechobee Boulevards, feeding a fast-growing residential village that eats out close to home. Community events at the Commons and a busy catering trade add weekend volume.",
+  "Western-communities kitchens used to accept second-tier delivery service as the price of the address; they shouldn't. Our Palm Beach route runs the village daily — about fifty minutes out of Pompano Beach — with the same no-fee, no-minimum terms as the coast, the same midnight cutoff, and the same refrigerated trucks."
+ ],
+ "route_note": "About 50 minutes from our Pompano Beach warehouse on the western Palm Beach leg — village stops land before lunch prep, seven days a week.",
+ "faqs_unique": [
+  {
+   "q": "Do you charge extra to deliver to the western communities?",
+   "a": "No. Royal Palm Beach rides the standard Palm Beach route — no delivery fees, no fuel charges, no minimums, same as coastal kitchens."
+  },
+  {
+   "q": "Can caterers in Royal Palm Beach get event-volume flexibility?",
+   "a": "Yes. Hold a standing baseline and layer event volume on by the midnight cutoff — weekend community events are routine adds on this route."
+  }
+ ],
+ "nearby": [
+  "wellington",
+  "greenacres",
+  "west-palm-beach",
+  "belle-glade",
+  "palm-springs"
+ ],
+ "cta_text": "Tell us your family kitchen's staples or your catering calendar — we will bring coast-grade produce service to Royal Palm Beach daily."
+}

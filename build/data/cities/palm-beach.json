@@ -1,0 +1,42 @@
+{
+ "slug": "palm-beach",
+ "name": "Palm Beach",
+ "county": "palm-beach",
+ "lat": 26.7056,
+ "lng": -80.0364,
+ "hero_image": "organic-produce",
+ "dining_districts": [
+  "Worth Avenue and its vias",
+  "the island's resort dining rooms",
+  "the private clubs",
+  "Royal Poinciana Plaza's newer kitchens"
+ ],
+ "kitchen_profile": [
+  "resort and grand-hotel kitchens",
+  "private club dining rooms",
+  "fine dining rooms and private chefs"
+ ],
+ "intro": [
+  "Palm Beach is the most demanding dining address in Florida. The island's grand resorts run multiple outlets at a standard few kitchens anywhere match; the private clubs plate for members who dine in-house half the week; Worth Avenue and Royal Poinciana Plaza keep adding rooms cooked by nationally known chefs; and behind the hedges, private chefs shop for households that entertain nightly through season.",
+  "Supplying the island means holding specs without excuses: produce staged by ripeness for menus planned days out, flawless specialty items — the microgreens, edible flowers, and rare fruit that finish a plate — and delivery timing that respects service entrances and the island's rhythm. We cross the bridge on the morning run, about forty-five minutes from our Pompano Beach warehouse, every day of the year that kitchens cook — which on this island is all of them."
+ ],
+ "route_note": "About 45 minutes from our Pompano Beach warehouse, crossing to the island on the morning run — resort and club docks receive before service prep.",
+ "faqs_unique": [
+  {
+   "q": "Can you meet resort and private club produce standards on Palm Beach?",
+   "a": "Yes. Standing orders hold size, trim, and ripeness specs, substitutions are flagged before they ship, and specialty items ride every daily truck — island kitchens are built into the route, not an exception to it."
+  },
+  {
+   "q": "Do you supply private chefs on the island?",
+   "a": "Yes. Private chefs order the same catalog as restaurants — no minimums, split cases, and specialty produce — with delivery timed to household schedules."
+  }
+ ],
+ "nearby": [
+  "west-palm-beach",
+  "riviera-beach",
+  "lake-worth-beach",
+  "lantana",
+  "north-palm-beach"
+ ],
+ "cta_text": "Tell us your standards for resort service, private clubs, fine dining, or catered events, and we will help build a Palm Beach produce plan with the right quality, timing, and communication."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "palm-beach-gardens",
+ "name": "Palm Beach Gardens",
+ "county": "palm-beach",
+ "lat": 26.8234,
+ "lng": -80.1387,
+ "hero_image": "south-florida-produce",
+ "dining_districts": [
+  "the PGA Boulevard restaurant row",
+  "Downtown at the Gardens and the Gardens Mall corridor",
+  "PGA National and the golf club dining rooms",
+  "the Alton and Donald Ross corridor"
+ ],
+ "kitchen_profile": [
+  "PGA corridor upscale dining rooms",
+  "golf resort and club kitchens",
+  "hotel and banquet operations"
+ ],
+ "intro": [
+  "Palm Beach Gardens is golf country with a restaurant row to match — PGA Boulevard runs a dense line of upscale dining rooms, steakhouses, and wine bars between Downtown at the Gardens and the Gardens Mall, while PGA National's resort and the surrounding clubs cook for members, tournament weeks, and a conference calendar that fills banquet kitchens year-round.",
+  "Tournament season is the stress test: when the Honda-legacy tour event and member-guest calendars hit, club and resort kitchens step volume up hard and expect their supplier to keep spec. Standing orders with event layering handle it, split cases keep the tasting menus sharp, and the north county leg out of Pompano Beach — about fifty-five minutes — lands before prep every day of the week."
+ ],
+ "route_note": "About 55 minutes from our Pompano Beach warehouse — PGA corridor and club stops run daily on the north county leg.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to PGA Boulevard restaurants and the Gardens dining districts?",
+   "a": "Yes. The PGA corridor, Downtown at the Gardens, and mall-district kitchens are daily stops timed to each property's receiving window."
+  },
+  {
+   "q": "Can club and resort kitchens handle tournament-week volume through you?",
+   "a": "Yes. Hold a standing baseline and layer tournament and banquet volume by the midnight cutoff — golf-calendar step-ups are planned into this route."
+  }
+ ],
+ "nearby": [
+  "north-palm-beach",
+  "juno-beach",
+  "jupiter",
+  "lake-park",
+  "riviera-beach"
+ ],
+ "cta_text": "Share your country club, golf corridor, resort, restaurant, or catering needs, and we will help set delivery timing and produce pars for Palm Beach Gardens service."
+}

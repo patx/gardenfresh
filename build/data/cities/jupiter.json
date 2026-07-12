@@ -1,0 +1,44 @@
+{
+ "slug": "jupiter",
+ "name": "Jupiter",
+ "county": "palm-beach",
+ "lat": 26.9342,
+ "lng": -80.0942,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "the Jupiter Inlet and lighthouse waterfront",
+  "Harbourside Place",
+  "the Love Street dining pocket",
+  "Abacoa's town center",
+  "the golf club dining rooms"
+ ],
+ "kitchen_profile": [
+  "waterfront seafood houses",
+  "Harbourside and town-center restaurants",
+  "golf club kitchens",
+  "breweries and casual chef-driven spots"
+ ],
+ "intro": [
+  "Jupiter cooks on the water. The inlet district under the lighthouse holds some of Florida's best-known waterfront restaurants — docks full by noon, kitchens running fresh-catch menus that need produce as fresh as the fish — while Harbourside Place and the Love Street pocket keep adding rooms. Inland, Abacoa's town center feeds the ballpark crowds and one of the state's densest golf-club populations dines at member standards.",
+  "Jupiter caps our north county route — about an hour and ten from the Pompano Beach warehouse — and earns the drive. Waterfront kitchens run heavy citrus, herb, and garnish programs alongside their staples; clubs hold spec on standing orders; and spring training season around the ballpark layers predictable step-ups every February and March."
+ ],
+ "route_note": "About 70 minutes from our Pompano Beach warehouse at the top of the north county route — inlet and town-center stops land before lunch service.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Jupiter's inlet and waterfront restaurants?",
+   "a": "Yes. The lighthouse and inlet district, Harbourside, and Love Street are regular stops, timed so waterfront kitchens receive before the docks fill."
+  },
+  {
+   "q": "Can Abacoa-area kitchens scale up for spring training season?",
+   "a": "Yes. Ballpark-driven kitchens layer spring training volume onto standing orders by the midnight cutoff — a planned step-up every February and March."
+  }
+ ],
+ "nearby": [
+  "tequesta",
+  "juno-beach",
+  "palm-beach-gardens",
+  "north-palm-beach",
+  "lake-park"
+ ],
+ "cta_text": "Share your needs for coastal dining, club service, chef-driven specials, or event prep, and we will help build a produce order that fits your Jupiter menu and delivery window."
+}

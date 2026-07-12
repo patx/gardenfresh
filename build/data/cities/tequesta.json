@@ -1,0 +1,41 @@
+{
+ "slug": "tequesta",
+ "name": "Tequesta",
+ "county": "palm-beach",
+ "lat": 26.9603,
+ "lng": -80.1017,
+ "hero_image": "organic-produce",
+ "dining_districts": [
+  "the Tequesta Drive village center",
+  "the US-1 corridor",
+  "the riverfront and club kitchens along the Loxahatchee"
+ ],
+ "kitchen_profile": [
+  "village bistros and cafes",
+  "country club and riverfront kitchens",
+  "neighborhood favorites"
+ ],
+ "intro": [
+  "Tequesta is the county's northern edge — a small village on the Loxahatchee River where the dining scene concentrates around Tequesta Drive's bistros and cafes, a handful of beloved neighborhood institutions on US-1, and club kitchens serving riverfront and golf communities. It is the kind of town where a restaurant's reputation is thirty years deep and the produce had better respect that.",
+  "We run Tequesta at the very top of the north county route, about seventy-five minutes from the Pompano Beach warehouse, on the same terms as every other stop: no delivery fees for the distance, split cases for small village kitchens, and standing orders that hold spec for the clubs. Village kitchens order tonight, receive tomorrow morning — every day of the week."
+ ],
+ "route_note": "About 75 minutes from our Pompano Beach warehouse — the final stop north on the county route, arriving before lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Does Tequesta's distance mean delivery fees or minimums?",
+   "a": "No. Tequesta rides the standard north county route — no delivery fees, no fuel charges, no minimums, same terms as kitchens ten minutes from our dock."
+  },
+  {
+   "q": "Do you supply club and riverfront kitchens in Tequesta?",
+   "a": "Yes. Club dining rooms and riverfront kitchens run standing orders with consistent specs, plus split cases for member events."
+  }
+ ],
+ "nearby": [
+  "jupiter",
+  "juno-beach",
+  "palm-beach-gardens",
+  "north-palm-beach",
+  "lake-park"
+ ],
+ "cta_text": "Tell us your village kitchen's staples or your club's spec — we will bring full-service produce delivery to the top of the county, daily."
+}

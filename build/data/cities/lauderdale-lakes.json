@@ -1,0 +1,41 @@
+{
+ "slug": "lauderdale-lakes",
+ "name": "Lauderdale Lakes",
+ "county": "broward",
+ "lat": 26.1664,
+ "lng": -80.2081,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "the State Road 7 restaurant corridor",
+  "the Oakland Park Boulevard plazas",
+  "community and healthcare facility kitchens"
+ ],
+ "kitchen_profile": [
+  "Caribbean restaurants and bakeries",
+  "healthcare and senior facility kitchens",
+  "takeout and quick-service kitchens"
+ ],
+ "intro": [
+  "Lauderdale Lakes shares the 441 corridor's deep Caribbean food culture — Jamaican restaurants, island bakeries, and takeout kitchens serving one of the most concentrated West Indian communities in Florida — and adds a cluster of healthcare and senior-living facilities whose dining services need institutional consistency day after day.",
+  "Both halves get a purpose-built account. Restaurant kitchens order island staples — plantains, yams, callaloo when in, scotch bonnets, fresh thyme — in split cases that fit tight storage. Facility kitchens run scheduled case programs with reliable windows and the documentation their food-service contracts require. Everything rides the same refrigerated route, fifteen minutes out of Pompano Beach."
+ ],
+ "route_note": "About 15 minutes from our Pompano Beach warehouse — an early stop on the central Broward morning run.",
+ "faqs_unique": [
+  {
+   "q": "Can you supply healthcare and senior facility kitchens in Lauderdale Lakes?",
+   "a": "Yes. Facility dining services run consistent case programs with scheduled delivery windows, steady specs, and menu-cycle planning."
+  },
+  {
+   "q": "Do you stock West Indian produce for Lauderdale Lakes restaurants?",
+   "a": "Yes. Island staples — plantains, yams, scotch bonnets, thyme, and seasonal Caribbean produce — are available by the case or split case on daily routes."
+  }
+ ],
+ "nearby": [
+  "lauderhill",
+  "oakland-park",
+  "tamarac",
+  "north-lauderdale",
+  "wilton-manors"
+ ],
+ "cta_text": "Tell us whether you run an island kitchen or a facility dining service — we will set up the right mix of flexibility and consistency for Lauderdale Lakes."
+}

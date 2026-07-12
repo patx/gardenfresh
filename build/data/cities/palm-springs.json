@@ -1,0 +1,41 @@
+{
+ "slug": "palm-springs",
+ "name": "Palm Springs",
+ "county": "palm-beach",
+ "lat": 26.6359,
+ "lng": -80.0961,
+ "hero_image": "leafy-greens",
+ "dining_districts": [
+  "the Congress Avenue restaurant corridor",
+  "the 10th Avenue North plazas",
+  "the Military Trail strip"
+ ],
+ "kitchen_profile": [
+  "Latin American and Caribbean kitchens",
+  "family restaurants and bakeries",
+  "takeout and quick-service counters"
+ ],
+ "intro": [
+  "The village of Palm Springs sits in the middle of central Palm Beach County's most vibrant Latin food corridor — Cuban bakeries, Guatemalan and Honduran kitchens, Colombian restaurants, and family-run counters along Congress Avenue and 10th Avenue North that cook for one of the county's hardest-working communities.",
+  "These kitchens buy carefully and cook everything fresh, which is exactly the account our model serves: no minimums, split cases, and a produce list that treats plantains, yuca, culantro, tomatillos, and peppers as staples rather than special orders. The route out of Pompano Beach reaches the village in about forty minutes, seven days a week, with wholesale pricing that respects a family kitchen's margins."
+ ],
+ "route_note": "About 40 minutes from our Pompano Beach warehouse on the central Palm Beach leg — Congress corridor stops land in the morning window.",
+ "faqs_unique": [
+  {
+   "q": "Do you stock Latin American produce staples for Palm Springs kitchens?",
+   "a": "Yes. Plantains, yuca, tomatillos, culantro, hot peppers, and tropical fruit run alongside standard staples on the same daily routes, by the case or split case."
+  },
+  {
+   "q": "Can bakeries and small counters get wholesale delivery in Palm Springs?",
+   "a": "Yes. No minimums and no delivery fees mean a bakery or takeout counter orders only what it needs and still gets a refrigerated truck."
+  }
+ ],
+ "nearby": [
+  "greenacres",
+  "lake-worth-beach",
+  "lantana",
+  "west-palm-beach",
+  "wellington"
+ ],
+ "cta_text": "Tell us what your kitchen or bakery cooks daily — we will keep the Latin staples and standard cases coming at family-kitchen prices."
+}

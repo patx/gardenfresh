@@ -1,0 +1,29 @@
+{
+  "base_url": "https://gardenfreshwholesale.com",
+  "name": "Garden Fresh",
+  "legal_name": "Garden Fresh, LLC",
+  "phone": "+1-561-254-0241",
+  "phone_tel": "+15612540241",
+  "phone_display": "(561) 254-0241",
+  "email": "sales@gardenfresh.com",
+  "address": {
+    "street": "550 NE 28th Ct",
+    "city": "Pompano Beach",
+    "region": "FL",
+    "zip": "33064",
+    "country": "US"
+  },
+  "geo": { "lat": 26.2593, "lng": -80.1197 },
+  "hours": "Mo-Su 04:00-16:00",
+  "hours_display": "Mon–Sun · 4:00 AM – 4:00 PM",
+  "price_range": "$$",
+  "formspree": "https://formspree.io/f/mnnegaoq",
+  "order_url": "https://gardenfresh.vegy.app/",
+  "catalog_url": "https://gardenfresh.vegy.app/public_catalog",
+  "theme_color": "#237044",
+  "background_color": "#f7f3e8",
+  "default_social_image": "assets/images/south-florida-produce-social-1200x630.jpeg",
+  "logo": "assets/gardenfresh_logo_clear.png",
+  "description": "Wholesale produce supplier serving restaurants, hotels, institutions, marine provisioning customers, and foodservice kitchens across Broward and Palm Beach Counties.",
+  "hasMap": "https://www.google.com/maps/search/?api=1&query=550+NE+28th+Ct%2C+Pompano+Beach%2C+FL+33064"
+}

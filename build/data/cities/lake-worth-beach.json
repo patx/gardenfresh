@@ -1,0 +1,42 @@
+{
+ "slug": "lake-worth-beach",
+ "name": "Lake Worth Beach",
+ "county": "palm-beach",
+ "lat": 26.6156,
+ "lng": -80.0684,
+ "hero_image": "restaurant-produce-crates",
+ "dining_districts": [
+  "the Lake and Lucerne Avenue downtown",
+  "the beach and casino building complex",
+  "the Dixie Highway corridor",
+  "the College Park cafe pockets"
+ ],
+ "kitchen_profile": [
+  "independent chef-owned restaurants",
+  "cafes, bakeries, and vegetarian kitchens",
+  "beachfront concessions and bars"
+ ],
+ "intro": [
+  "Lake Worth Beach has the most independent food scene in the county — a downtown of chef-owned rooms, old-Florida bars, Guatemalan and Mexican kitchens, vegan cafes, and bakeries along Lake and Lucerne Avenues, with the beachfront casino building adding oceanfront service. Nobody here is running a corporate spec sheet; owners cook their own menus and buy their own produce.",
+  "Chef-owners get our most flexible setup: no minimums, split cases, by-the-pound items, and organics and specialty produce ordered only when the menu calls for it. The city's strong vegetarian and Latin American kitchens pull deeper on our greens, herb, and pepper lists than most towns. Delivery runs about forty minutes out of Pompano Beach, seven days a week."
+ ],
+ "route_note": "About 40 minutes from our Pompano Beach warehouse — downtown avenue stops land in the morning window on the central Palm Beach leg.",
+ "faqs_unique": [
+  {
+   "q": "Do you work with small chef-owned kitchens in downtown Lake Worth Beach?",
+   "a": "Yes. No minimums, split cases, and by-the-pound options are built for independent rooms where the chef is also the buyer."
+  },
+  {
+   "q": "Can you supply vegetarian and vegan kitchens with organics?",
+   "a": "Yes. Certified organic staples and a deep greens and specialty list ride the same daily route — ordered only in the volume your menu needs."
+  }
+ ],
+ "nearby": [
+  "lantana",
+  "palm-springs",
+  "greenacres",
+  "west-palm-beach",
+  "boynton-beach"
+ ],
+ "cta_text": "Tell us your staples, specials, and receiving preferences, whether you run an independent restaurant, cafe, bar kitchen, or catering operation in Lake Worth Beach."
+}

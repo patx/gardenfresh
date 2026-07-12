@@ -1,0 +1,41 @@
+{
+ "slug": "hallandale-beach",
+ "name": "Hallandale Beach",
+ "county": "broward",
+ "lat": 25.9812,
+ "lng": -80.1484,
+ "hero_image": "restaurant-produce-crates",
+ "dining_districts": [
+  "Gulfstream Park Village's restaurant row",
+  "the Hallandale Beach Boulevard corridor",
+  "oceanfront high-rise dining along South Ocean Drive"
+ ],
+ "kitchen_profile": [
+  "Gulfstream Park restaurants and event kitchens",
+  "steakhouses and international dining rooms",
+  "condo-tower and beachfront kitchens"
+ ],
+ "intro": [
+  "Hallandale Beach cooks at the county line, where Broward blends into Miami's dining energy. Gulfstream Park Village pairs a racetrack and casino with a genuine restaurant row; the Hallandale Beach Boulevard corridor carries a strong international lineup — Brazilian, Eastern European, pan-Latin — and the oceanfront towers on South Ocean Drive house restaurants, cafes, and private dining rooms feeding thousands of residents and guests.",
+  "It is the last stop south on our Broward routes, about thirty-five minutes from the Pompano Beach warehouse, and the trucks arrive loaded for exactly this mix: case volume for racetrack event kitchens, precise steakhouse produce staged by ripeness, and split cases for tower cafes with small dry storage. Race season and winter residents land at the same time — standing orders here are built to step up hard from November through April."
+ ],
+ "route_note": "About 35 minutes south of our Pompano Beach warehouse on I-95 — the anchor stop of the south Broward run, arriving ahead of lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Gulfstream Park Village restaurants?",
+   "a": "Yes. Gulfstream's restaurant row and event kitchens are regular stops, with delivery timed to each property's dock and stepped-up volume through race season."
+  },
+  {
+   "q": "Can you serve condo-tower kitchens on South Ocean Drive?",
+   "a": "Yes. Tower restaurants and private dining rooms receive on the same south-county run, and split cases fit the smaller storage most tower kitchens have."
+  }
+ ],
+ "nearby": [
+  "hollywood",
+  "dania-beach",
+  "miramar",
+  "pembroke-pines",
+  "davie"
+ ],
+ "cta_text": "Tell us whether you cook at the track, in a tower, or on the boulevard — we will build a Hallandale Beach order that survives season."
+}

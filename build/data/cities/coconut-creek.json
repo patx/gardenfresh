@@ -1,0 +1,41 @@
+{
+ "slug": "coconut-creek",
+ "name": "Coconut Creek",
+ "county": "broward",
+ "lat": 26.2517,
+ "lng": -80.1789,
+ "hero_image": "organic-produce",
+ "dining_districts": [
+  "the Promenade at Coconut Creek",
+  "the Seminole Casino dining corridor",
+  "the Lyons Road and Hillsboro plazas"
+ ],
+ "kitchen_profile": [
+  "casino and entertainment-district kitchens",
+  "Promenade restaurants and cafes",
+  "family dining rooms"
+ ],
+ "intro": [
+  "Coconut Creek's dining scene splits between two anchors: the Promenade, an open-air district of restaurants and cafes that functions as the city's downtown, and the Seminole Casino corridor, where high-volume kitchens run late hours and banquet-scale covers. Around them, the Lyons Road and Hillsboro plazas carry the neighborhood spots in Broward's self-styled Butterfly Capital.",
+  "Casino-adjacent kitchens run big and late — case-volume standing orders with step-ups for promotions and event weekends. Promenade kitchens run tighter menus that lean on split cases and specialty items. Both are a quick run from our Pompano Beach warehouse, about fifteen minutes east, with the midnight cutoff giving late-service kitchens room to order after close."
+ ],
+ "route_note": "About 15 minutes from our Pompano Beach warehouse — Promenade and casino-corridor stops land early on the northwest Broward run.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to restaurants at the Promenade at Coconut Creek?",
+   "a": "Yes. The Promenade is a regular morning stop, with drivers coordinating the property's service access and each kitchen's window."
+  },
+  {
+   "q": "Can casino-corridor kitchens order after late service ends?",
+   "a": "Yes. The midnight cutoff exists for late kitchens — close out, count the walk-in, and order for next-day delivery."
+  }
+ ],
+ "nearby": [
+  "margate",
+  "coral-springs",
+  "parkland",
+  "deerfield-beach",
+  "pompano-beach"
+ ],
+ "cta_text": "Share your receiving window and weekly produce list, whether you run casino-adjacent dining, Promenade service, or event-driven foodservice. We will shape your order around real kitchen demand."
+}

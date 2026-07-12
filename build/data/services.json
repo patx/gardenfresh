@@ -1,0 +1,272 @@
+[
+ {
+  "file": "restaurant-wholesale-produce.html",
+  "title": "Local Restaurant Produce Supplier | Broward & Palm Beach | Garden Fresh",
+  "meta_description": "Garden Fresh is a local restaurant produce supplier for Broward and Palm Beach chefs with split cases, no minimums, no delivery fees, and 7-day delivery.",
+  "h1": "Restaurant wholesale produce supplier for Broward and Palm Beach chefs",
+  "lead": "We supply restaurants, cafes, bars, caterers, hotel kitchens, private chefs, and foodservice operators with refrigerated produce delivery, split cases, standing orders, no order minimums, and local route support.",
+  "faqs": [
+   {
+    "q": "What makes Garden Fresh different for restaurants?",
+    "a": "Garden Fresh is built around chef workflows: split cases, standing orders, late cutoffs, no order minimums, no delivery fees, and local support from a Pompano Beach team."
+   },
+   {
+    "q": "Can restaurants build a custom order guide?",
+    "a": "Yes. Send your prep staples, weekly volume, delivery window, and seasonal items. We can build a practical online order guide for your kitchen."
+   },
+   {
+    "q": "Do you deliver to both Broward and Palm Beach Counties?",
+    "a": "Yes. Garden Fresh runs refrigerated restaurant produce routes across Broward and Palm Beach Counties, with city pages for major local service areas."
+   },
+   {
+    "q": "Can I order specialty produce for menu changes?",
+    "a": "Yes. Restaurants can request specialty mushrooms, microgreens, edible flowers, tropical fruit, organics, and seasonal produce when available."
+   }
+  ],
+  "slug": "restaurant",
+  "name": "Restaurants",
+  "hero_image": "restaurant-hero",
+  "nav_label": "Restaurants",
+  "service_type": "Restaurant wholesale produce supplier",
+  "card_blurb": "Split cases, standing orders, late cutoffs, and 7-day refrigerated routes built around chef workflows.",
+  "intro": [
+   "Garden Fresh is built around how restaurant kitchens actually run: orders placed after service ends, trucks dispatched at 4 AM, product in the walk-in before prep starts. We supply restaurants, cafes, bars, caterers, and private chefs across Broward and Palm Beach Counties with the full produce range — staples through specialty.",
+   "Split cases and by-the-pound options keep food cost honest. Standing orders hold your pars steady. There are no order minimums, no delivery fees, and no fuel charges on local routes — and when a menu changes at 10 PM, the cutoff for most next-day items is 12 AM."
+  ],
+  "groups": [
+   {
+    "t": "Late cutoff",
+    "d": "Place most orders by 12AM for next-day restaurant delivery."
+   },
+   {
+    "t": "Flexible packs",
+    "d": "Order cases, split cases, and by-the-pound items as menus change."
+   },
+   {
+    "t": "Standing orders",
+    "d": "Set weekly pars for staple produce and add seasonal specials."
+   },
+   {
+    "t": "Local support",
+    "d": "Work with a Pompano Beach team that understands chef timelines."
+   }
+  ],
+  "related": []
+ },
+ {
+  "file": "hotel-resort-produce-supplier.html",
+  "title": "Hotel & Resort Produce Supplier | Broward & Palm Beach",
+  "meta_description": "Wholesale produce delivery for hotels, resorts, country clubs, banquets, bars, and hospitality groups in Broward and Palm Beach Counties.",
+  "h1": "Hotel and resort produce delivery in Broward and Palm Beach Counties",
+  "lead": "We supply hotels, resorts, country clubs, bars, banquets, breakfast programs, and hospitality outlets with consistent wholesale produce and 7-day delivery.",
+  "faqs": [
+   {
+    "q": "Can Garden Fresh support hotel standing orders?",
+    "a": "Yes. Hotels and resorts can set pars for breakfast fruit, bar citrus, salads, banquets, and outlet staples, then adjust for occupancy or events."
+   },
+   {
+    "q": "Do you provide produce for banquets and events?",
+    "a": "Yes. We support planned events, top-offs, and specialty requests for banquets, clubs, and resort food and beverage teams."
+   },
+   {
+    "q": "Do hospitality accounts have delivery fees?",
+    "a": "No. Local accounts receive no delivery fees, no fuel charges, and no order minimums."
+   },
+   {
+    "q": "Can you provide documentation for purchasing?",
+    "a": "W-9, COI, and food safety documentation are available on request."
+   }
+  ],
+  "slug": "hotel-resort",
+  "name": "Hotels & Resorts",
+  "hero_image": "hotel-resort-produce",
+  "nav_label": "Hotels & Resorts",
+  "service_type": "Hotel and resort produce supplier",
+  "card_blurb": "Multi-outlet properties, banquet volume, and receiving-dock logistics handled on one account.",
+  "intro": [
+   "Hotel and resort food programs juggle multiple outlets on one loading dock — a breakfast buffet, a pool bar, a signature restaurant, and a banquet calendar that can double volume overnight. We support properties across Broward and Palm Beach with consolidated ordering, early receiving windows, and volume that flexes with occupancy and events.",
+   "Purchasing teams get consistent pack sizes and predictable invoicing; banquet chefs get case volume on short notice; outlet chefs still get split cases and specialty items for their own menus. One supplier, one route, every outlet covered."
+  ],
+  "groups": [
+   {
+    "t": "Outlet pars",
+    "d": "Set baseline produce quantities for restaurants, bars, breakfast programs, pool service, and club outlets."
+   },
+   {
+    "t": "Event top-offs",
+    "d": "Add banquet produce, fruit displays, salad items, herbs, and citrus when occupancy or event counts move."
+   },
+   {
+    "t": "Purchasing support",
+    "d": "Keep documentation, receiving notes, order timing, and special requests clear for food and beverage teams."
+   },
+   {
+    "t": "Banquet-ready volume",
+    "d": "Case volume that flexes with occupancy, group bookings, and event calendars — without re-negotiating every week."
+   }
+  ],
+  "related": []
+ },
+ {
+  "file": "school-institutional-produce-delivery.html",
+  "title": "School & Institutional Produce Delivery | Garden Fresh",
+  "meta_description": "Wholesale produce delivery for schools, childcare centers, healthcare kitchens, offices, institutions, and cafeterias in Broward and Palm Beach.",
+  "h1": "School and institutional produce delivery in Broward and Palm Beach Counties",
+  "lead": "We support schools, childcare centers, cafeterias, healthcare kitchens, offices, senior living facilities, and institutions with dependable wholesale produce delivery.",
+  "faqs": [
+   {
+    "q": "Can Garden Fresh support recurring institutional orders?",
+    "a": "Yes. We can set standing orders for weekly menus, office programs, healthcare kitchens, and planned cafeteria usage."
+   },
+   {
+    "q": "Can you provide food safety documentation?",
+    "a": "Yes. W-9, COI, and food safety documentation are available on request."
+   },
+   {
+    "q": "Do institutions need to meet an order minimum?",
+    "a": "No. Local accounts have no order minimums, no delivery fees, and no fuel charges."
+   },
+   {
+    "q": "Can deliveries align with receiving windows?",
+    "a": "Garden Fresh works with receiving windows and route timing whenever possible across Broward and Palm Beach Counties."
+   }
+  ],
+  "slug": "school-institutional",
+  "name": "Schools & Institutions",
+  "hero_image": "school-institutional-produce",
+  "nav_label": "Schools & Institutions",
+  "service_type": "School and institutional produce delivery",
+  "card_blurb": "Consistent case volumes, documentation, and reliable delivery windows for institutional kitchens.",
+  "intro": [
+   "Schools, senior living communities, hospitals, and institutional kitchens need something different from a produce supplier: consistent case sizes, dependable delivery windows, food-safety documentation, and pricing that holds across a term. We run institutional accounts across Broward and Palm Beach Counties on scheduled refrigerated routes.",
+   "Menus are planned weeks out, so standing orders do the heavy lifting — with the flexibility to adjust for enrollment swings, holiday schedules, and menu cycles. GAP/HACCP-conscious handling and cold-chain delivery come standard."
+  ],
+  "groups": [
+   {
+    "t": "Menu cycles",
+    "d": "Align fruit, salad items, vegetables, and snack produce to weekly or monthly planned menus."
+   },
+   {
+    "t": "Receiving windows",
+    "d": "Coordinate delivery timing with kitchen staff, office teams, or cafeteria receiving procedures."
+   },
+   {
+    "t": "Documentation",
+    "d": "Keep W-9, COI, and food safety documentation available for purchasing and compliance teams."
+   },
+   {
+    "t": "Enrollment flexibility",
+    "d": "Standing orders that scale for enrollment swings, holiday schedules, and summer programs."
+   }
+  ],
+  "related": []
+ },
+ {
+  "file": "yacht-marine-provisioning.html",
+  "title": "Yacht & Marine Produce Provisioning | Broward & Palm Beach",
+  "meta_description": "Yacht and marine produce provisioning for Broward and Palm Beach marinas with dockside delivery, staged ripeness, and trip-ready packs.",
+  "h1": "Yacht and marine produce provisioning in Broward and Palm Beach Counties",
+  "lead": "Garden Fresh provides dockside produce delivery, staged ripeness, and trip-ready provisioning for yachts, sport-fishing crews, liveaboards, marinas, and private docks.",
+  "faqs": [
+   {
+    "q": "Can you deliver produce to marinas and private docks?",
+    "a": "Yes. We support dockside delivery for yachts, sport-fishing trips, private docks, and marina provisioning when route timing allows."
+   },
+   {
+    "q": "Can produce be packed by ripeness window?",
+    "a": "Yes. Produce can be planned for day-one use, mid-trip ripeness, and later-trip storage needs."
+   },
+   {
+    "q": "What details should captains or chefs send?",
+    "a": "Send departure marina, delivery date, trip length, guest and crew count, storage notes, and chef preferences."
+   },
+   {
+    "q": "Can you handle last-minute top-offs?",
+    "a": "We can support top-offs when route capacity and product availability allow."
+   }
+  ],
+  "slug": "yacht-marine",
+  "name": "Yacht Provisioning",
+  "hero_image": "yacht-marine-provisioning",
+  "nav_label": "Yacht Provisioning",
+  "service_type": "Yacht and marine produce provisioning",
+  "card_blurb": "Dockside provisioning for yachts and crew from Fort Lauderdale to Palm Beach marinas.",
+  "intro": [
+   "South Florida is the yachting capital of the world, and provisioning timelines are brutal: an owner arrives Friday, the boat leaves Sunday, and the galley needs restaurant-grade produce packed for a crossing. We provision yachts and crew kitchens from the marinas of Fort Lauderdale, Dania Beach, and Palm Beach with dock-side delivery timed to your departure.",
+   "Chief stews and galley chefs get hand-selected produce, pack-out suited to marine refrigeration, and a local team that answers the phone when plans change — because on charter, they always do."
+  ],
+  "groups": [
+   {
+    "t": "Departure prep",
+    "d": "Plan day-one produce, herbs, salad items, citrus, berries, and guest-ready fruit for departure service."
+   },
+   {
+    "t": "Ripeness waves",
+    "d": "Stage avocados, bananas, tomatoes, mangos, and other sensitive items for mid-trip and later use."
+   },
+   {
+    "t": "Galley packs",
+    "d": "Use labeled crates, split cases, trimmed greens, and practical pack sizes for limited storage."
+   },
+   {
+    "t": "Departure-timed delivery",
+    "d": "Provisioning scheduled to your departure window, packed for marine refrigeration and crossings."
+   }
+  ],
+  "related": []
+ },
+ {
+  "file": "seasonal-produce-for-restaurants-south-florida.html",
+  "title": "Seasonal Produce for South Florida Restaurants | Garden Fresh",
+  "meta_description": "Seasonal produce planning for South Florida restaurants, chefs, caterers, hotels, clubs, and foodservice kitchens using Garden Fresh wholesale delivery.",
+  "h1": "Seasonal produce for South Florida restaurants",
+  "lead": "Plan restaurant menus, specials, and standing orders around seasonal produce, staple prep items, and specialty requests in Broward and Palm Beach Counties.",
+  "faqs": [
+   {
+    "q": "Can Garden Fresh source seasonal produce?",
+    "a": "Yes. We can help with seasonal produce and specialty requests when items are available through regional farms, national growers, and specialty suppliers."
+   },
+   {
+    "q": "Should restaurants use standing orders for seasonal menus?",
+    "a": "Standing orders work best for staple items. Seasonal specials can be added weekly so restaurants stay flexible."
+   },
+   {
+    "q": "Can chefs request microgreens or edible flowers?",
+    "a": "Yes. Microgreens, edible flowers, specialty mushrooms, organics, and other specialty items can be requested based on availability."
+   },
+   {
+    "q": "How often should restaurants review produce pars?",
+    "a": "Review pars weekly or whenever reservations, weather, events, or menu changes affect volume."
+   }
+  ],
+  "slug": "seasonal",
+  "name": "Seasonal Produce",
+  "hero_image": "restaurant-produce-crates",
+  "nav_label": "Seasonal Produce",
+  "service_type": "Seasonal produce supplier",
+  "card_blurb": "Plan specials around South Florida seasons — stone fruit summers, winter tomatoes, year-round tropicals.",
+  "intro": [
+   "South Florida flips the seasons: our best local tomato and greens months are winter, summer brings mango and tropical fruit, and season (the human kind) doubles covers from November to April. We help chefs plan specials and menus around what is actually good right now — and around what their dining room volume is about to do.",
+   "Ask your rep what is peaking before you print the next menu. Seasonal items can ride alongside your standing staple order, in split cases while you test a special and full cases once it sells."
+  ],
+  "groups": [
+   {
+    "t": "Greens and herbs",
+    "d": "Romaine, spring mix, spinach, kale, basil, parsley, cilantro, and mint."
+   },
+   {
+    "t": "Citrus and tropicals",
+    "d": "Lemons, limes, oranges, mangos, pineapple, avocados, and seasonal fruit."
+   },
+   {
+    "t": "Roots and vegetables",
+    "d": "Potatoes, onions, carrots, beets, squash, peppers, mushrooms, and prep vegetables."
+   },
+   {
+    "t": "Specialty produce",
+    "d": "Microgreens, edible flowers, specialty mushrooms, organics, berries, and chef requests."
+   }
+  ],
+  "related": []
+ }
+]

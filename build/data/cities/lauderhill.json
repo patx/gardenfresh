@@ -1,0 +1,41 @@
+{
+ "slug": "lauderhill",
+ "name": "Lauderhill",
+ "county": "broward",
+ "lat": 26.1403,
+ "lng": -80.2133,
+ "hero_image": "restaurant-produce-crates",
+ "dining_districts": [
+  "the State Road 7 / 441 Caribbean restaurant corridor",
+  "the Oakland Park Boulevard plazas",
+  "the Central Broward Park events kitchens"
+ ],
+ "kitchen_profile": [
+  "Jamaican and Caribbean restaurants",
+  "takeaway and patty kitchens",
+  "event and stadium catering"
+ ],
+ "intro": [
+  "Lauderhill is the heart of Jamaican and Caribbean cooking in Broward — the 441 corridor runs thick with jerk kitchens, patty shops, oxtail houses, and island bakeries, and Central Broward Park's stadium hosts cricket and Caribbean festivals that bring serious event catering volume. This is a cuisine with its own produce list, and suppliers who treat it as an afterthought lose the order.",
+  "We stock the list properly: scotch bonnet peppers, thyme by the case, callaloo when available, green bananas, plantains at the ripeness stage you ask for, yuca, and the citrus that keeps escovitch and pepper sauces moving. Kitchens order by the case or split case on the same 7-day routes, about twenty minutes from our Pompano Beach warehouse."
+ ],
+ "route_note": "About 20 minutes from our Pompano Beach warehouse on the central Broward run — 441-corridor stops land in the morning window.",
+ "faqs_unique": [
+  {
+   "q": "Do you carry Caribbean produce staples for Lauderhill kitchens?",
+   "a": "Yes. Scotch bonnets, thyme, plantains staged by ripeness, green bananas, yuca, and seasonal island produce run alongside the standard staples — by the case or split case."
+  },
+  {
+   "q": "Can you supply festival and event caterers at Central Broward Park?",
+   "a": "Yes. Event caterers can layer festival volume on top of a standing baseline by the midnight cutoff, with case quantities sized to the event calendar."
+  }
+ ],
+ "nearby": [
+  "lauderdale-lakes",
+  "sunrise",
+  "plantation",
+  "tamarac",
+  "north-lauderdale"
+ ],
+ "cta_text": "Tell us what your jerk kitchen, bakery, or catering operation runs through each week — we will keep the island staples coming at the ripeness you need."
+}

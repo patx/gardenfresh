@@ -1,0 +1,41 @@
+{
+ "slug": "juno-beach",
+ "name": "Juno Beach",
+ "county": "palm-beach",
+ "lat": 26.8798,
+ "lng": -80.0533,
+ "hero_image": "tomatoes",
+ "dining_districts": [
+  "the US-1 and Donald Ross Road dining corridor",
+  "the oceanfront hotel kitchens",
+  "the Juno Beach pier area cafes"
+ ],
+ "kitchen_profile": [
+  "oceanfront hotel and resort kitchens",
+  "seafood houses and coastal bistros",
+  "breakfast cafes"
+ ],
+ "intro": [
+  "Juno Beach is a small oceanfront town with a short, strong restaurant roster: seafood houses and coastal bistros along US-1, breakfast cafes that fill with beach walkers coming off the pier, and oceanfront hotel kitchens serving guests who came for the turtles and the quiet. Covers swing hard between season and summer, and every kitchen in town knows its regulars by name.",
+  "Small coastal kitchens get our small-kitchen setup: split cases so the walk-in stays lean, standing orders for the citrus and greens that anchor a beach-town menu, and step-ups for season without renegotiating anything. Juno rides the top of our north county leg, about an hour from the Pompano Beach warehouse, every morning."
+ ],
+ "route_note": "About an hour from our Pompano Beach warehouse near the top of the north county leg — coastal stops land before lunch service.",
+ "faqs_unique": [
+  {
+   "q": "Can small Juno Beach kitchens order without minimums?",
+   "a": "Yes. No minimums and split cases fit beach-town kitchens — order to your covers, not to a truck quota."
+  },
+  {
+   "q": "Do you adjust Juno Beach orders between season and summer?",
+   "a": "Yes. Standing orders step up for season and back down for summer with a simple adjustment — no penalties, no renegotiation."
+  }
+ ],
+ "nearby": [
+  "jupiter",
+  "palm-beach-gardens",
+  "north-palm-beach",
+  "tequesta",
+  "lake-park"
+ ],
+ "cta_text": "Tell us your beach-town staples and season swing — we will keep a Juno Beach kitchen fresh without overstuffing a small walk-in."
+}

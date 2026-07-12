@@ -1,0 +1,41 @@
+{
+ "slug": "belle-glade",
+ "name": "Belle Glade",
+ "county": "palm-beach",
+ "lat": 26.6845,
+ "lng": -80.6676,
+ "hero_image": "roots-tubers",
+ "dining_districts": [
+  "the Main Street and Avenue A downtown",
+  "the SR-80 corridor",
+  "school and institutional kitchens across the Glades communities"
+ ],
+ "kitchen_profile": [
+  "school and institutional dining programs",
+  "family restaurants and soul food kitchens",
+  "caterers serving the agricultural community"
+ ],
+ "intro": [
+  "Belle Glade sits in the middle of the Glades — 'Her soil is her fortune' is the town motto, and the muck farms around it grow a huge share of America's winter sweet corn, sugarcane, and leafy vegetables. The irony of food service out here is real: the region that feeds the country is a long way from wholesale delivery routes, and its schools, institutions, and family kitchens have often been an afterthought for coastal suppliers.",
+  "We run the Glades deliberately, not as an afterthought. School and institutional programs get scheduled case deliveries with the documentation their contracts require; the soul food kitchens and family restaurants along Main Street and SR-80 get the same no-fee, no-minimum terms as any coastal account. The truck makes the seventy-minute run west from Pompano Beach on a set schedule you can build a menu cycle on."
+ ],
+ "route_note": "About 70 minutes west of our Pompano Beach warehouse on a scheduled Glades run — institutional and restaurant stops on a dependable weekly rhythm.",
+ "faqs_unique": [
+  {
+   "q": "Do you really deliver out to Belle Glade and the Glades communities?",
+   "a": "Yes — on a set schedule with the same no-fee, no-minimum terms as coastal accounts. Talk to us about route days and we will build your order cycle around them."
+  },
+  {
+   "q": "Can you supply school and institutional kitchens in the Glades?",
+   "a": "Yes. Institutional programs run scheduled case deliveries with consistent specs, reliable windows, and the documentation food-service contracts require."
+  }
+ ],
+ "nearby": [
+  "royal-palm-beach",
+  "wellington",
+  "west-palm-beach",
+  "greenacres",
+  "lake-worth-beach"
+ ],
+ "cta_text": "Tell us your school program's menu cycle or your Main Street kitchen's weekly list — the Glades deserve the same produce service as the coast."
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "riviera-beach",
+ "name": "Riviera Beach",
+ "county": "palm-beach",
+ "lat": 26.7753,
+ "lng": -80.0581,
+ "hero_image": "restaurant-produce-crates",
+ "dining_districts": [
+  "the Riviera Beach Marina Village",
+  "Singer Island's resort and beachfront kitchens",
+  "the Port of Palm Beach corridor",
+  "the Broadway strip"
+ ],
+ "kitchen_profile": [
+  "marina and waterfront restaurants",
+  "Singer Island resort kitchens",
+  "port-side and provisioning kitchens",
+  "soul food and Caribbean kitchens"
+ ],
+ "intro": [
+  "Riviera Beach is a working waterfront: the Port of Palm Beach moves ships that need provisioning, the rebuilt Marina Village anchors dockside dining, one of the coast's premier superyacht service yards keeps galley chefs busy, and across the bridge Singer Island's resorts run beachfront kitchens at full occupancy all season. On the mainland, the Broadway corridor carries a proud soul food and Caribbean tradition.",
+  "Few cities mix marine provisioning, resort volume, and neighborhood cooking like this, and the route reflects it — dockside deliveries timed to departures through our marine division, case programs for Singer Island's resort outlets, and split-case flexibility for the independent kitchens on Broadway. From Pompano Beach the run is about fifty minutes north."
+ ],
+ "route_note": "About 50 minutes from our Pompano Beach warehouse — marina, port, and Singer Island stops share the north county morning leg.",
+ "faqs_unique": [
+  {
+   "q": "Can you provision yachts and ships at the Port of Palm Beach and marina?",
+   "a": "Yes. Our marine division delivers dockside — provisioning packed for galley refrigeration and timed to departures, from sportfish boats to superyacht refits."
+  },
+  {
+   "q": "Do you deliver to Singer Island resort kitchens?",
+   "a": "Yes. Island resort outlets receive on the north county morning leg, with case volume that flexes against occupancy and banquet calendars."
+  }
+ ],
+ "nearby": [
+  "west-palm-beach",
+  "lake-park",
+  "north-palm-beach",
+  "palm-beach",
+  "palm-beach-gardens"
+ ],
+ "cta_text": "Tell us your needs for port-side service, marina dining, resort outlets, or neighborhood kitchens, and we will match route timing to your receiving schedule."
+}

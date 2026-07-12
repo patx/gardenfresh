@@ -1,0 +1,41 @@
+{
+ "slug": "oakland-park",
+ "name": "Oakland Park",
+ "county": "broward",
+ "lat": 26.1723,
+ "lng": -80.1319,
+ "hero_image": "leafy-greens",
+ "dining_districts": [
+  "the downtown Culinary Arts District",
+  "the Federal Highway corridor",
+  "the Oakland Park Boulevard strip"
+ ],
+ "kitchen_profile": [
+  "Culinary Arts District restaurants and breweries",
+  "food-business incubator kitchens",
+  "neighborhood cafes and bakeries"
+ ],
+ "intro": [
+  "Oakland Park leaned into food harder than any small city in Broward — its downtown is a designated Culinary Arts District, anchored by a funky mix of breweries, bakeries, chef-owned bistros, and a culinary incubator that keeps hatching new food businesses. It is a city where the person placing the produce order is very often the chef-owner themselves.",
+  "That kind of kitchen needs a supplier that scales down as well as up. Split cases, by-the-pound items, and no order minimums mean a two-person concept in the district can buy like a restaurant, not a household — and when the concept takes off, the same account scales to full-case standing orders. From our Pompano Beach warehouse it is a straight fifteen-minute shot down Dixie Highway."
+ ],
+ "route_note": "About 15 minutes from our Pompano Beach warehouse straight down Dixie Highway — an easy early stop between the coastal and central routes.",
+ "faqs_unique": [
+  {
+   "q": "Do you work with small and startup kitchens in the Culinary Arts District?",
+   "a": "Yes. No minimums and split cases mean incubator concepts, bakeries, and small chef-owned rooms can order exactly what a small menu needs — and scale the account as they grow."
+  },
+  {
+   "q": "Can breweries and taprooms in Oakland Park get produce delivery?",
+   "a": "Yes. Taproom kitchens and food-truck-serviced breweries can set small standing orders for garnish, greens, and prep staples on the same daily routes."
+  }
+ ],
+ "nearby": [
+  "wilton-manors",
+  "fort-lauderdale",
+  "lauderdale-by-the-sea",
+  "tamarac",
+  "lauderdale-lakes"
+ ],
+ "cta_text": "Tell us what your district kitchen, bakery, or taproom runs through each week — we will build an order that fits a chef-owner's food cost, not a chain's."
+}

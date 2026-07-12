@@ -1,0 +1,41 @@
+{
+ "slug": "lake-park",
+ "name": "Lake Park",
+ "county": "palm-beach",
+ "lat": 26.8003,
+ "lng": -80.0664,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "the Park Avenue downtown",
+  "the Lake Park Harbor Marina",
+  "the Northlake Boulevard corridor"
+ ],
+ "kitchen_profile": [
+  "chef-owned bistros and cafes",
+  "brewery and maker-district kitchens",
+  "marina and waterfront spots"
+ ],
+ "intro": [
+  "Lake Park is north county's sleeper food town. Its historic Park Avenue downtown has quietly filled with chef-owned bistros, a brewing scene, and maker-space kitchens taking advantage of rents the fancier zip codes nearby can't offer — while the town's harbor marina adds waterfront covers and the Northlake corridor carries the volume traffic.",
+  "Emerging food districts need a supplier that treats small accounts seriously, because this year's two-table bistro is next year's expansion. No minimums, split cases, and by-the-pound ordering let Park Avenue kitchens buy sharp; the midnight cutoff and 7-day routes — about fifty minutes out of Pompano Beach — keep weekend service covered as the crowds find them."
+ ],
+ "route_note": "About 50 minutes from our Pompano Beach warehouse on the north county leg — Park Avenue and marina stops land in the morning window.",
+ "faqs_unique": [
+  {
+   "q": "Do you work with new and small restaurants in downtown Lake Park?",
+   "a": "Yes. No minimums and split cases are built for emerging kitchens — start small, and the account scales as your covers grow."
+  },
+  {
+   "q": "Can marina and waterfront kitchens in Lake Park get weekend delivery?",
+   "a": "Yes. Routes run seven days, so waterfront spots with big weekend swings can restock Saturday night for Sunday service."
+  }
+ ],
+ "nearby": [
+  "riviera-beach",
+  "north-palm-beach",
+  "palm-beach-gardens",
+  "west-palm-beach",
+  "juno-beach"
+ ],
+ "cta_text": "Tell us what your Park Avenue kitchen or marina spot is building — we will supply it like it is already the neighborhood anchor."
+}

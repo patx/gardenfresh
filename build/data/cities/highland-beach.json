@@ -1,0 +1,41 @@
+{
+ "slug": "highland-beach",
+ "name": "Highland Beach",
+ "county": "palm-beach",
+ "lat": 26.3998,
+ "lng": -80.0654,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "oceanfront condominium dining rooms along A1A",
+  "private club kitchens",
+  "the resort kitchens at the town's edges"
+ ],
+ "kitchen_profile": [
+  "condominium tower dining services",
+  "private club kitchens",
+  "small resort and catering kitchens"
+ ],
+ "intro": [
+  "Highland Beach is three miles of A1A between Delray and Boca — no commercial strip, no restaurant row, just oceanfront towers and clubs whose private dining rooms quietly plate some of the most demanding covers in the county. Kitchens here cook for residents who eat in-house several nights a week, which makes consistency a contract term, not a courtesy.",
+  "Tower and club kitchens run small but exacting orders: split cases so nothing wilts in a compact walk-in, tight specs on greens and fruit for dining rooms with standing reservations, and a reliable morning window that doesn't collide with resident traffic. We slot Highland Beach between our Boca and Delray stops, about twenty-five minutes from the Pompano Beach warehouse."
+ ],
+ "route_note": "About 25 minutes from our Pompano Beach warehouse, slotted between the Boca Raton and Delray Beach stops on the coastal A1A leg.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to condominium and club dining rooms in Highland Beach?",
+   "a": "Yes. Tower and private club kitchens along A1A are regular stops, with delivery timed to service entrances and resident traffic patterns."
+  },
+  {
+   "q": "Can small private kitchens order without volume minimums?",
+   "a": "Yes. No minimums and split cases are built for exactly this — a private dining room can order precisely what its reservation book requires."
+  }
+ ],
+ "nearby": [
+  "delray-beach",
+  "boca-raton",
+  "boynton-beach",
+  "lantana",
+  "deerfield-beach"
+ ],
+ "cta_text": "Tell us your dining room's covers and spec — we will keep a Highland Beach private kitchen supplied with the consistency your residents expect."
+}

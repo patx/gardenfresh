@@ -1,0 +1,42 @@
+{
+ "slug": "boynton-beach",
+ "name": "Boynton Beach",
+ "county": "palm-beach",
+ "lat": 26.5318,
+ "lng": -80.0905,
+ "hero_image": "south-florida-produce",
+ "dining_districts": [
+  "the downtown marina district and Ocean Avenue",
+  "the Congress Avenue restaurant corridor",
+  "the Federal Highway strip",
+  "brewery row along industrial Boynton"
+ ],
+ "kitchen_profile": [
+  "waterfront seafood houses",
+  "neighborhood restaurants and breweries",
+  "catering and banquet kitchens"
+ ],
+ "intro": [
+  "Boynton Beach cooks around its marina — one of the busiest inlets on this stretch of coast, with dockside seafood houses that have fed boaters for generations — while the rebuilt downtown around Ocean Avenue and a scrappy brewery row give the city a food identity beyond the water. Congress Avenue carries the volume corridors, and caterers work the banquet halls between them.",
+  "Waterfront kitchens want fish-house produce: lemons and limes by the case, slaw cabbage, fry-station staples, and tomatoes that hold on a garnish line. Breweries and downtown rooms want split cases and specials flexibility. Both get the same 7-day route out of Pompano Beach, about thirty-five minutes south, with the midnight cutoff for post-service ordering."
+ ],
+ "route_note": "About 35 minutes from our Pompano Beach warehouse on the Palm Beach run — marina and downtown stops land in the morning window.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to the Boynton Beach marina district restaurants?",
+   "a": "Yes. Dockside and Ocean Avenue kitchens are regular stops, with drivers timing around the marina's morning traffic."
+  },
+  {
+   "q": "Can breweries and taproom kitchens in Boynton order small quantities?",
+   "a": "Yes. No minimums and split cases fit taproom kitchens — garnish citrus, greens, and prep staples in exactly the volume a small menu needs."
+  }
+ ],
+ "nearby": [
+  "delray-beach",
+  "lantana",
+  "lake-worth-beach",
+  "greenacres",
+  "highland-beach"
+ ],
+ "cta_text": "Send us your weekly volume, delivery window, and the items your line depends on most. We will help Boynton Beach restaurants, fish houses, and catering kitchens keep consistent produce on hand."
+}

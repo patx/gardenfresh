@@ -1,0 +1,43 @@
+{
+ "slug": "pembroke-pines",
+ "name": "Pembroke Pines",
+ "county": "broward",
+ "lat": 26.0128,
+ "lng": -80.3382,
+ "hero_image": "leafy-greens",
+ "dining_districts": [
+  "the Shops at Pembroke Gardens",
+  "the Pines Boulevard corridor",
+  "Pembroke Pines City Center",
+  "the Flamingo Road restaurant plazas"
+ ],
+ "kitchen_profile": [
+  "open-air lifestyle-center restaurants",
+  "family dining rooms and cafes",
+  "caterers and banquet kitchens",
+  "senior community dining services"
+ ],
+ "intro": [
+  "Pembroke Pines is one of Florida's biggest suburbs, and it eats like one: the open-air restaurant row at Pembroke Gardens, the City Center's newer dining lineup, and mile after mile of independent kitchens along Pines Boulevard, one of the busiest restaurant corridors in south Broward. Behind the storefronts sit banquet halls, caterers, and some of the county's largest senior-community dining operations.",
+  "The spread of kitchen types is wide, so the account setups are too — full-case standing orders for banquet and senior-dining volume, split cases for chef-owned rooms at the Gardens, and by-the-pound flexibility for cafes testing weekend specials. Trucks reach the Pines corridor about thirty-five minutes out of Pompano Beach, every day of the week."
+ ],
+ "route_note": "About 35–40 minutes southwest of our Pompano Beach warehouse — Pines Boulevard and Pembroke Gardens stops run daily on the south Broward loop.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to restaurants at the Shops at Pembroke Gardens?",
+   "a": "Yes. Gardens restaurants are regular stops — drivers coordinate with the property's service corridors and each kitchen's receiving window."
+  },
+  {
+   "q": "Can you supply senior community and banquet kitchens in Pembroke Pines?",
+   "a": "Yes. High-volume dining services run consistent case programs with scheduled windows, documentation, and menu-cycle planning."
+  }
+ ],
+ "nearby": [
+  "miramar",
+  "cooper-city",
+  "hollywood",
+  "davie",
+  "weston"
+ ],
+ "cta_text": "Share your weekly list, delivery window, and volume swings for lifestyle-center dining, cafe service, or catering, and we will help keep your Pembroke Pines kitchen stocked."
+}

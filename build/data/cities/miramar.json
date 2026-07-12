@@ -1,0 +1,42 @@
+{
+ "slug": "miramar",
+ "name": "Miramar",
+ "county": "broward",
+ "lat": 25.9861,
+ "lng": -80.3036,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "the Miramar Parkway corridor",
+  "Miramar Town Center",
+  "the commissary and food-production kitchens of the Miramar Park of Commerce",
+  "the Red Road corridor's Caribbean and Latin kitchens"
+ ],
+ "kitchen_profile": [
+  "Caribbean and Latin American restaurants",
+  "commissaries and food producers",
+  "corporate campus and event kitchens"
+ ],
+ "intro": [
+  "Miramar cooks for all of South Florida, not just itself. The Park of Commerce — one of the largest business parks in the region — is packed with commissaries, caterers, and food producers that need pallet-minded produce supply, while the Miramar Parkway and Red Road corridors serve one of the strongest Caribbean and Latin dining scenes in Broward: Jamaican, Cuban, Colombian, Peruvian kitchens with produce lists a generic supplier fumbles.",
+  "We stock for those lists — plantains, yuca, malanga, boniato, culantro, scotch bonnets alongside the standard restaurant staples — and we deliver them on the same 7-day refrigerated routes. Production kitchens get consistent case volume on schedule; restaurants get split cases and a midnight cutoff that respects how island kitchens actually order."
+ ],
+ "route_note": "About 40 minutes southwest of our Pompano Beach warehouse — the far anchor of the south Broward loop, with commissary stops scheduled to production calendars.",
+ "faqs_unique": [
+  {
+   "q": "Do you carry Caribbean and Latin produce staples for Miramar kitchens?",
+   "a": "Yes. Plantains, yuca, malanga, boniato, culantro, hot peppers, and tropical fruit run on the same routes as standard restaurant staples — by the case or split case."
+  },
+  {
+   "q": "Can you supply commissaries and food producers in the Park of Commerce?",
+   "a": "Yes. Production kitchens run consistent case-volume programs with scheduled delivery windows and volumes that track production calendars rather than dining covers."
+  }
+ ],
+ "nearby": [
+  "pembroke-pines",
+  "hallandale-beach",
+  "hollywood",
+  "cooper-city",
+  "weston"
+ ],
+ "cta_text": "Tell us your commercial kitchen, commissary, restaurant, or group dining needs, and we will build a produce schedule around your Miramar receiving window and weekly throughput."
+}

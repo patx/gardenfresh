@@ -1,0 +1,41 @@
+{
+ "slug": "north-palm-beach",
+ "name": "North Palm Beach",
+ "county": "palm-beach",
+ "lat": 26.8173,
+ "lng": -80.0819,
+ "hero_image": "leafy-greens",
+ "dining_districts": [
+  "the US-1 restaurant corridor",
+  "the North Palm Beach Country Club",
+  "the marina and waterfront kitchens along the Intracoastal"
+ ],
+ "kitchen_profile": [
+  "country club dining rooms",
+  "waterfront and marina restaurants",
+  "neighborhood bistros"
+ ],
+ "intro": [
+  "North Palm Beach calls itself the best place to live under the sun, and its kitchens cook accordingly — a village-owned country club with a serious dining operation, waterfront rooms along the Intracoastal where diners arrive by boat, and a US-1 corridor of bistros and long-standing local favorites serving a village that eats out often and notices details.",
+  "Club and waterfront kitchens here run on member and regular loyalty, which makes consistency the whole game: standing orders that hold spec, split cases for menu changes, and a delivery window that never surprises the morning prep cook. The village sits on our north county leg, about fifty-five minutes from the Pompano Beach warehouse, seven days a week."
+ ],
+ "route_note": "About 55 minutes from our Pompano Beach warehouse on the north county leg — club and corridor stops land before lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you supply the country club and waterfront kitchens in North Palm Beach?",
+   "a": "Yes. Club dining rooms and Intracoastal waterfront kitchens are regular stops, with standing orders that hold member-grade specs."
+  },
+  {
+   "q": "Can North Palm Beach bistros order specialty produce in small volumes?",
+   "a": "Yes. Split cases and by-the-pound items let a bistro run microgreens, specialty mushrooms, and seasonal items without full-case waste."
+  }
+ ],
+ "nearby": [
+  "lake-park",
+  "palm-beach-gardens",
+  "juno-beach",
+  "riviera-beach",
+  "palm-beach"
+ ],
+ "cta_text": "Tell us your club covers, waterfront volume, or bistro staples — we will keep a North Palm Beach kitchen consistent for the regulars who keep it full."
+}

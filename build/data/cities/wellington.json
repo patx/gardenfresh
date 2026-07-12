@@ -1,0 +1,43 @@
+{
+ "slug": "wellington",
+ "name": "Wellington",
+ "county": "palm-beach",
+ "lat": 26.6618,
+ "lng": -80.2684,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "the Wellington International equestrian venue and show-season kitchens",
+  "the polo club dining rooms",
+  "the Wellington Green and State Road 7 corridor",
+  "the Forest Hill Boulevard plazas"
+ ],
+ "kitchen_profile": [
+  "equestrian-season hospitality and VIP kitchens",
+  "polo and golf club dining rooms",
+  "caterers and event kitchens",
+  "neighborhood restaurants"
+ ],
+ "intro": [
+  "Wellington's food economy changes with the horses. From January through April, the Winter Equestrian Festival and polo season turn the village into an international hospitality operation — VIP tents, sponsor pavilions, club dining rooms, and private chefs cooking for the sport's wealthiest owners — then the covers settle back to a polished suburban baseline around Wellington Green and the Forest Hill corridor.",
+  "Seasonal whiplash is a produce-supply problem, and it is one we plan for. Event caterers and club kitchens hold a baseline standing order and layer show-week volume on top by the midnight cutoff; specialty items — microgreens, edible flowers, tasting-menu produce — ride the same trucks as the staple cases. The run from Pompano Beach takes about forty-five minutes across the county."
+ ],
+ "route_note": "About 45 minutes from our Pompano Beach warehouse — village and showgrounds stops run daily, with show-season step-ups from January through April.",
+ "faqs_unique": [
+  {
+   "q": "Can you handle Winter Equestrian Festival and polo season volume?",
+   "a": "Yes. Event caterers and club kitchens layer show-week volume on a standing baseline by the midnight cutoff — season step-ups are planned into the Wellington route every winter."
+  },
+  {
+   "q": "Do you supply VIP hospitality and private chefs during show season?",
+   "a": "Yes. Specialty and tasting-menu produce — microgreens, edible flowers, premium fruit — delivers alongside staple cases, with split cases so precise menus stay precise."
+  }
+ ],
+ "nearby": [
+  "royal-palm-beach",
+  "greenacres",
+  "palm-springs",
+  "west-palm-beach",
+  "lake-worth-beach"
+ ],
+ "cta_text": "Tell us your needs for equestrian-season volume, club service, catering, or neighborhood dining, and we will help build a produce plan around your Wellington schedule."
+}

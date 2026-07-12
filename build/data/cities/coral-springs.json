@@ -1,0 +1,43 @@
+{
+ "slug": "coral-springs",
+ "name": "Coral Springs",
+ "county": "broward",
+ "lat": 26.2712,
+ "lng": -80.2706,
+ "hero_image": "south-florida-produce",
+ "dining_districts": [
+  "the downtown Coral Springs / Cornerstone district",
+  "the University Drive restaurant row",
+  "the Wiles Road and Sample Road plazas",
+  "country club dining rooms"
+ ],
+ "kitchen_profile": [
+  "family dining rooms and chef-owned bistros",
+  "country club kitchens",
+  "caterers and banquet halls",
+  "school dining programs"
+ ],
+ "intro": [
+  "Coral Springs has grown a real dining identity around its new downtown — the Cornerstone district's restaurant row — while University Drive remains one of northwest Broward's busiest restaurant miles, from chef-owned bistros to family institutions that have fed the city for decades. Country clubs, banquet halls, and one of the county's largest school communities round out the demand.",
+  "The range rewards a flexible supplier: split cases and specialty produce for downtown menus, consistent club programs with member-grade specs, and institutional case volume for school and banquet kitchens. From our Pompano Beach warehouse the run is about twenty minutes up the Sawgrass, seven days a week."
+ ],
+ "route_note": "About 20 minutes from our Pompano Beach warehouse via the Sawgrass Expressway — downtown and University Drive stops land before lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to the new downtown Coral Springs restaurants?",
+   "a": "Yes. The Cornerstone district and University Drive row are daily stops on the northwest run, timed to each kitchen's receiving window."
+  },
+  {
+   "q": "Can you supply country club and banquet kitchens in Coral Springs?",
+   "a": "Yes. Club and banquet programs run standing case orders with consistent specs, plus split-case flexibility for events and seasonal menus."
+  }
+ ],
+ "nearby": [
+  "parkland",
+  "coconut-creek",
+  "margate",
+  "tamarac",
+  "north-lauderdale"
+ ],
+ "cta_text": "Tell us your core items, prep-heavy days, and receiving hours. We will help Coral Springs restaurants, cafes, and group dining teams keep the right produce moving into the kitchen."
+}

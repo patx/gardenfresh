@@ -1,0 +1,43 @@
+{
+ "slug": "dania-beach",
+ "name": "Dania Beach",
+ "county": "broward",
+ "lat": 26.0523,
+ "lng": -80.144,
+ "hero_image": "tomatoes",
+ "dining_districts": [
+  "Dania Pointe's restaurant row",
+  "the Dania Beach pier and oceanfront",
+  "the Federal Highway antiques district",
+  "marina kitchens along the Dania Cut-Off Canal"
+ ],
+ "kitchen_profile": [
+  "Dania Pointe restaurants",
+  "pier and oceanside kitchens",
+  "marina and boatyard galleys",
+  "airport-area hotel kitchens"
+ ],
+ "intro": [
+  "Dania Beach has quietly become a serious restaurant town. Dania Pointe brought a full open-air restaurant row to the east side of I-95, the rebuilt pier anchors oceanfront dining, and the Dania Cut-Off Canal hosts one of the largest concentrations of boatyards and megayacht refit kitchens in the country. Add the hotels serving the airport and cruise port next door, and the produce needs run from banquet volume to galley precision.",
+  "From our Pompano Beach warehouse it is about twenty-five minutes down I-95, which puts Dania Beach on the same early leg as Fort Lauderdale. Dania Pointe kitchens run standing orders with weekend step-ups; marina and refit galleys use our marine provisioning experience for crossings and sea trials; hotel kitchens flex with flight schedules and cruise turnarounds."
+ ],
+ "route_note": "About 25 minutes south of our Pompano Beach warehouse on I-95, sharing the early Fort Lauderdale leg — pier, Pointe, and marina stops land before mid-morning.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Dania Pointe restaurants?",
+   "a": "Yes. The Pointe's restaurant row is a regular stop, and drivers coordinate with each property's loading dock and receiving windows."
+  },
+  {
+   "q": "Can you provision boats and refit galleys along the Dania Cut-Off Canal?",
+   "a": "Yes. Our marine division delivers dockside to boatyards and marina kitchens, packed for galley refrigeration and timed to departures and sea trials."
+  }
+ ],
+ "nearby": [
+  "hollywood",
+  "fort-lauderdale",
+  "davie",
+  "hallandale-beach",
+  "cooper-city"
+ ],
+ "cta_text": "Tell us whether you cook at the Pointe, on the pier, or in a galley on the Cut-Off Canal — we will time produce to your service, not the other way around."
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "tamarac",
+ "name": "Tamarac",
+ "county": "broward",
+ "lat": 26.2129,
+ "lng": -80.2498,
+ "hero_image": "leafy-greens",
+ "dining_districts": [
+  "the Commercial Boulevard restaurant plazas",
+  "golf club dining rooms",
+  "the University Drive corridor",
+  "senior community dining services"
+ ],
+ "kitchen_profile": [
+  "golf and country club kitchens",
+  "senior community dining operations",
+  "neighborhood restaurants and diners"
+ ],
+ "intro": [
+  "Tamarac was built around its golf courses and its retirement communities, and its food service reflects both: club dining rooms that feed members lunch off the back nine, and large senior-living campuses whose kitchens plate hundreds of covers three times a day, every day, on a dietician's menu cycle. Along Commercial Boulevard and University Drive, neighborhood diners and family restaurants round out the scene.",
+  "Senior dining is unforgiving about consistency — same spec, same case, same window — and that is what scheduled institutional programs are for. Club kitchens want the opposite: split cases and specialty items that keep a member menu from going stale. We run both from Pompano Beach, about fifteen minutes east, on the same 7-day refrigerated routes."
+ ],
+ "route_note": "About 15 minutes from our Pompano Beach warehouse — Commercial Boulevard and club stops land early on the northwest Broward run.",
+ "faqs_unique": [
+  {
+   "q": "Can you supply senior community dining services in Tamarac?",
+   "a": "Yes. We run scheduled case programs with consistent specs, reliable windows, and volumes that follow your census and menu cycle."
+  },
+  {
+   "q": "Do you deliver to golf club kitchens in Tamarac?",
+   "a": "Yes. Club dining rooms get standing orders for staples plus split cases for member events, banquets, and seasonal menus."
+  }
+ ],
+ "nearby": [
+  "north-lauderdale",
+  "lauderhill",
+  "margate",
+  "coral-springs",
+  "sunrise"
+ ],
+ "cta_text": "Tell us your club covers, facility census, or neighborhood dining volume — we will set a Tamarac produce program that holds its spec."
+}

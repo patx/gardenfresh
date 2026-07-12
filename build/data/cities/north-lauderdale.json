@@ -1,0 +1,41 @@
+{
+ "slug": "north-lauderdale",
+ "name": "North Lauderdale",
+ "county": "broward",
+ "lat": 26.2174,
+ "lng": -80.2258,
+ "hero_image": "tomatoes",
+ "dining_districts": [
+  "the McNab Road plazas",
+  "the State Road 7 corridor",
+  "the Rock Island Road neighborhood pockets"
+ ],
+ "kitchen_profile": [
+  "family-owned neighborhood restaurants",
+  "Caribbean and Latin takeout kitchens",
+  "school and community kitchens"
+ ],
+ "intro": [
+  "North Lauderdale's food scene is plaza-based and proudly local: family-owned Caribbean, Latin, and American kitchens along McNab Road and the 441 corridor, takeout counters that feed working families every night, and the school and community kitchens that come with one of Broward's younger, densest cities.",
+  "Small kitchens are the whole point of our no-minimums model. A takeout counter can order two split cases and a bag of thyme and still get a refrigerated truck at the door — no fees, no fuel charges, wholesale pricing. And because we are barely fifteen minutes away in Pompano Beach, add-ons and schedule changes are easy to accommodate."
+ ],
+ "route_note": "About 15 minutes from our Pompano Beach warehouse on the northwest Broward run — plaza stops land in the morning window.",
+ "faqs_unique": [
+  {
+   "q": "Is there a minimum order for small North Lauderdale kitchens?",
+   "a": "No. No minimums, no delivery fees, no fuel charges — a takeout counter can order what it actually needs and still get wholesale pricing and refrigerated delivery."
+  },
+  {
+   "q": "Do you stock Caribbean and Latin staples for North Lauderdale restaurants?",
+   "a": "Yes. Plantains, yuca, peppers, fresh herbs, and island staples ride the same daily routes as standard restaurant produce."
+  }
+ ],
+ "nearby": [
+  "tamarac",
+  "margate",
+  "lauderhill",
+  "coral-springs",
+  "lauderdale-lakes"
+ ],
+ "cta_text": "Tell us what your counter or kitchen sells the most of — we will build a small, sharp order that keeps quality up without tying up cash."
+}

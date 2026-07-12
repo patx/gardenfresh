@@ -1,0 +1,42 @@
+{
+ "slug": "sunrise",
+ "name": "Sunrise",
+ "county": "broward",
+ "lat": 26.1669,
+ "lng": -80.2564,
+ "hero_image": "tomatoes",
+ "dining_districts": [
+  "the Sawgrass Mills dining ring",
+  "the Amerant Bank Arena events corridor",
+  "the Sunrise Boulevard and University Drive plazas",
+  "Sawgrass International Corporate Park"
+ ],
+ "kitchen_profile": [
+  "high-volume mall and entertainment-district restaurants",
+  "arena and event concessions kitchens",
+  "corporate park cafes and caterers"
+ ],
+ "intro": [
+  "Sunrise runs on event volume. Sawgrass Mills pulls more visitors than almost any attraction in Florida, its dining ring turns tables all day, and the Amerant Bank Arena — home ice for the Panthers — dumps thousands of hungry people into the same corridor on game nights. Around it all sits one of Broward's biggest corporate parks, with lunch kitchens and caterers working banker's hours.",
+  "Kitchens here need a supplier that can flex hard: standing orders sized for ordinary Tuesdays, step-ups for playoff runs, concert nights, and holiday shopping weekends. Our midnight cutoff and 7-day routes make those swings manageable — order tonight for tomorrow's crowd. The run from Pompano Beach takes about twenty-five minutes on the Sawgrass Expressway."
+ ],
+ "route_note": "About 25 minutes west of our Pompano Beach warehouse via the Sawgrass Expressway — Mills-area and arena-corridor stops run daily, with event-week step-ups.",
+ "faqs_unique": [
+  {
+   "q": "Can Sunrise kitchens scale orders for arena events and mall peak season?",
+   "a": "Yes. Hold a baseline standing order and step volume up by the midnight cutoff for game nights, concerts, and holiday weekends — routes run seven days, so peak Saturdays are covered."
+  },
+  {
+   "q": "Do you deliver to restaurants in the Sawgrass Mills area?",
+   "a": "Yes. The Mills dining ring and surrounding plazas are daily stops, with delivery timed to each property's dock and your receiving window."
+  }
+ ],
+ "nearby": [
+  "plantation",
+  "tamarac",
+  "lauderhill",
+  "weston",
+  "davie"
+ ],
+ "cta_text": "Tell us your Sawgrass-area traffic patterns, event volume, group dining needs, or everyday restaurant staples, and we will help set a produce order that fits your service rhythm."
+}

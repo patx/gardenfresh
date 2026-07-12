@@ -1,0 +1,43 @@
+{
+ "slug": "boca-raton",
+ "name": "Boca Raton",
+ "county": "palm-beach",
+ "lat": 26.3683,
+ "lng": -80.1289,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "Mizner Park",
+  "Royal Palm Place",
+  "the Town Center corridor",
+  "country club and resort dining rooms",
+  "the Park at Broken Sound's newer kitchens"
+ ],
+ "kitchen_profile": [
+  "Mizner-area fine dining rooms",
+  "country club and resort kitchens",
+  "polished cafes and catering operations"
+ ],
+ "intro": [
+  "Boca Raton dining is polish under pressure: Mizner Park and Royal Palm Place dining rooms plating for guests who notice everything, one of the country's densest concentrations of country clubs, and resort kitchens running multiple outlets off a single dock. Season doubles the covers from November through April, and the standards never drop with the volume.",
+  "We built our south Palm Beach route for exactly this. Boca sits only fifteen to twenty minutes north of our Pompano Beach warehouse, so Mizner-area and club kitchens receive early — member-grade specs held on standing orders, specialty and organic items in split cases for menus that turn frequently, and banquet volume layered on by the midnight cutoff when the event calendar fills."
+ ],
+ "route_note": "About 15–20 minutes north of our Pompano Beach warehouse on I-95 — the first major stop on the Palm Beach County run, ahead of lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver to Mizner Park and Royal Palm Place restaurants?",
+   "a": "Yes. Both districts are daily stops on the south Palm Beach run, with drivers working each property's service access and your receiving window."
+  },
+  {
+   "q": "Can you hold club-grade produce specs for Boca Raton kitchens?",
+   "a": "Yes. Standing orders lock size, trim, and ripeness specs, and our team flags any substitution before it ships — clubs and resorts here run on that consistency."
+  }
+ ],
+ "nearby": [
+  "highland-beach",
+  "delray-beach",
+  "deerfield-beach",
+  "parkland",
+  "boynton-beach"
+ ],
+ "cta_text": "Tell us whether you are serving Mizner-area dining rooms, country club members, resort guests, or catering clients. We will match your Boca Raton route timing, staple cases, and specialty produce needs."
+}

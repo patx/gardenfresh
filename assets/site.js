@@ -2,28 +2,35 @@
   const year = document.getElementById('year');
   if (year) year.textContent = new Date().getFullYear();
 
-  document.querySelectorAll('a[href^="#"]').forEach((link) => {
-    link.addEventListener('click', (event) => {
-      const href = link.getAttribute('href');
-      if (!href || href === '#') return;
+  // Mobile nav toggle
+  const toggle = document.querySelector('.nav-toggle');
+  const nav = document.getElementById('siteNav');
+  if (toggle && nav) {
+    toggle.addEventListener('click', () => {
+      const open = nav.hasAttribute('data-open');
+      if (open) nav.removeAttribute('data-open');
+      else nav.setAttribute('data-open', '');
+      toggle.setAttribute('aria-expanded', String(!open));
+    });
+    nav.addEventListener('click', (event) => {
+      if (event.target.closest('a')) {
+        nav.removeAttribute('data-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
 
-      const target = document.querySelector(href);
-      if (!target) return;
-      event.preventDefault();
-      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  // Only one nav dropdown open at a time; close on outside click
+  const groups = Array.from(document.querySelectorAll('.nav-group'));
+  groups.forEach((group) => {
+    group.addEventListener('toggle', () => {
+      if (group.open) groups.forEach((g) => { if (g !== group) g.open = false; });
     });
   });
-
-  document.querySelectorAll('.navbar-collapse .nav-link, .navbar-collapse .dropdown-item').forEach((link) => {
-    link.addEventListener('click', () => {
-      if (link.classList.contains('dropdown-toggle')) return;
-
-      const navbar = link.closest('.navbar-collapse');
-      if (!navbar || !navbar.classList.contains('show') || !window.bootstrap) return;
-
-      const collapse = window.bootstrap.Collapse.getOrCreateInstance(navbar, { toggle: false });
-      collapse.hide();
-    });
+  document.addEventListener('click', (event) => {
+    if (!event.target.closest('.nav-group')) {
+      groups.forEach((g) => { g.open = false; });
+    }
   });
 
   async function submitForm(form, msgElement) {
@@ -32,7 +39,7 @@
 
     const formData = new FormData(form);
     msgElement.textContent = 'Submitting...';
-    msgElement.className = 'small text-secondary mt-1';
+    msgElement.className = 'form-msg';
 
     try {
       const response = await fetch(form.action, {
@@ -43,7 +50,7 @@
 
       if (response.ok) {
         msgElement.textContent = 'Message sent! A team member will reach out shortly.';
-        msgElement.className = 'small text-success mt-1';
+        msgElement.className = 'form-msg ok';
         form.reset();
         return;
       }
@@ -52,25 +59,12 @@
       msgElement.textContent = data && data.errors && data.errors.length
         ? data.errors.map((error) => error.message).join(', ')
         : 'Could not send. Please call (561) 254-0241';
-      msgElement.className = 'small text-danger mt-1';
+      msgElement.className = 'form-msg err';
     } catch (error) {
       msgElement.textContent = 'Could not send. Please call (561) 254-0241';
-      msgElement.className = 'small text-danger mt-1';
+      msgElement.className = 'form-msg err';
     }
   }
-
-  [
-    ['signupForm', 'signupMsg'],
-    ['contactForm', 'contactMsg']
-  ].forEach(([formId, msgId]) => {
-    const form = document.getElementById(formId);
-    const msg = document.getElementById(msgId);
-    if (!form || !msg) return;
-    form.addEventListener('submit', async (event) => {
-      event.preventDefault();
-      await submitForm(form, msg);
-    });
-  });
 
   document.querySelectorAll('form[data-formspree-form]').forEach((form) => {
     const msg = form.querySelector('[data-form-message]');
@@ -85,7 +79,7 @@
   document.querySelectorAll('[data-prefill]').forEach((element) => {
     element.addEventListener('click', () => {
       const message = element.getAttribute('data-prefill');
-      const field = document.querySelector('#contactForm textarea[name="message"], form[data-formspree-form] textarea[name="message"]');
+      const field = document.querySelector('form[data-formspree-form] textarea[name="message"]');
       if (message && field) field.value = message;
     });
   });

@@ -1,0 +1,42 @@
+{
+ "slug": "weston",
+ "name": "Weston",
+ "county": "broward",
+ "lat": 26.1004,
+ "lng": -80.3998,
+ "hero_image": "organic-produce",
+ "dining_districts": [
+  "Weston Town Center",
+  "the Bonaventure corridor",
+  "country club dining rooms",
+  "the corporate parks off I-75"
+ ],
+ "kitchen_profile": [
+  "polished suburban dining rooms",
+  "country club kitchens",
+  "corporate campus cafes and caterers"
+ ],
+ "intro": [
+  "Weston's dining scene matches the city: polished, consistent, and busier than it looks. Town Center's restaurant row carries the nightly covers, the country clubs run year-round dining rooms with member standards, and the corporate parks off I-75 keep lunch kitchens and caterers moving five days a week. There is also a strong Venezuelan and South American community here whose kitchens shape menus across the city.",
+  "Club and corporate kitchens want predictability — standing orders, consistent specs, a truck that arrives inside the window. Chef-owned rooms want flexibility — split cases, specialty items, organics for a clientele that reads labels. Both ride the same route: about thirty-five minutes from our Pompano Beach warehouse across the Sawgrass, seven days a week."
+ ],
+ "route_note": "About 35 minutes west of our Pompano Beach warehouse via the Sawgrass Expressway — Town Center and club stops land before lunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you supply country club kitchens in Weston?",
+   "a": "Yes. Club dining rooms run standing orders with consistent specs and split-case flexibility for member events and seasonal menus."
+  },
+  {
+   "q": "Can you deliver organics and specialty produce to Weston restaurants?",
+   "a": "Yes. Certified organic staples and specialty items — microgreens, tropical fruit, South American staples — ride the same daily route as your standard order."
+  }
+ ],
+ "nearby": [
+  "davie",
+  "sunrise",
+  "cooper-city",
+  "plantation",
+  "pembroke-pines"
+ ],
+ "cta_text": "Tell us your corporate-area lunch needs, club service, neighborhood dining volume, or catering schedule, and we will help keep your Weston kitchen stocked with the right produce."
+}

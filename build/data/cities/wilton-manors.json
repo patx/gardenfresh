@@ -1,0 +1,41 @@
+{
+ "slug": "wilton-manors",
+ "name": "Wilton Manors",
+ "county": "broward",
+ "lat": 26.1603,
+ "lng": -80.1389,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "Wilton Drive",
+  "the Five Points dining pocket",
+  "neighborhood cafes off NE 26th Street"
+ ],
+ "kitchen_profile": [
+  "Wilton Drive restaurants and brunch spots",
+  "bars with serious kitchen programs",
+  "cafes and bakeries"
+ ],
+ "intro": [
+  "Wilton Drive is one of Broward's liveliest restaurant strips — a walkable run of brunch patios, dinner spots, and bars whose kitchens punch far above their square footage. Weekend brunch is the defining service here: high covers, heavy garnish programs, and citrus by the case for the bar.",
+  "We time the Drive's deliveries from our Pompano Beach warehouse — about fifteen minutes out — so product is in the walk-in before Saturday and Sunday prep begins. Standing orders carry the brunch staples; split cases keep the specials board fresh mid-week when volume dips; and the midnight cutoff means a busy Friday can top up Saturday's order after close."
+ ],
+ "route_note": "About 15 minutes from our Pompano Beach warehouse — Wilton Drive kitchens receive early, with weekend timing built around brunch prep.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver before weekend brunch service on Wilton Drive?",
+   "a": "Yes. Weekend routes run like weekday routes — trucks leave at 4 AM, so brunch-heavy kitchens have produce racked before prep starts."
+  },
+  {
+   "q": "Can bars on the Drive order produce for cocktail programs?",
+   "a": "Yes. Citrus, herbs, and garnish produce can run on their own standing order — many Drive bars order by the case for juice and by the pound for garnish."
+  }
+ ],
+ "nearby": [
+  "oakland-park",
+  "fort-lauderdale",
+  "lauderdale-lakes",
+  "plantation",
+  "pompano-beach"
+ ],
+ "cta_text": "Tell us your brunch volume, bar program, and weekly staples — we will keep a Wilton Drive kitchen stocked through the weekend rush."
+}

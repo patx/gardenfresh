@@ -1,0 +1,41 @@
+{
+ "slug": "greenacres",
+ "name": "Greenacres",
+ "county": "palm-beach",
+ "lat": 26.6276,
+ "lng": -80.1354,
+ "hero_image": "produce-display",
+ "dining_districts": [
+  "the Lake Worth Road restaurant corridor",
+  "the Jog Road plazas",
+  "the Forest Hill Boulevard strip"
+ ],
+ "kitchen_profile": [
+  "family restaurants and Latin kitchens",
+  "caterers and banquet kitchens",
+  "senior community dining services"
+ ],
+ "intro": [
+  "Greenacres runs long and busy along Lake Worth Road — one of central county's densest restaurant corridors, where Latin American kitchens, family diners, pizzerias, and banquet caterers share plazas with the everyday businesses of a working city. Senior communities on the city's west side add institutional dining volume that runs on a fixed calendar.",
+  "Corridor kitchens get the flexible account: split cases, no minimums, staples plus the Latin produce list their menus draw on. Facility kitchens get scheduled case programs that hold specs across a menu cycle. Both ride the central Palm Beach leg out of Pompano Beach, about forty-five minutes door to door, every day of the week."
+ ],
+ "route_note": "About 45 minutes from our Pompano Beach warehouse — Lake Worth Road corridor stops run daily on the central Palm Beach leg.",
+ "faqs_unique": [
+  {
+   "q": "Do you deliver along the Lake Worth Road corridor in Greenacres?",
+   "a": "Yes. The corridor's plazas are daily stops, with timing set to each kitchen's receiving window."
+  },
+  {
+   "q": "Can senior community kitchens in Greenacres get scheduled programs?",
+   "a": "Yes. Facility dining services run consistent case programs with reliable windows and menu-cycle planning."
+  }
+ ],
+ "nearby": [
+  "palm-springs",
+  "lake-worth-beach",
+  "wellington",
+  "royal-palm-beach",
+  "lantana"
+ ],
+ "cta_text": "Tell us your corridor kitchen's staples or your facility's menu cycle — we will set a Greenacres produce program that fits."
+}

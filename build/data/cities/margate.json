@@ -1,0 +1,41 @@
+{
+ "slug": "margate",
+ "name": "Margate",
+ "county": "broward",
+ "lat": 26.2445,
+ "lng": -80.2064,
+ "hero_image": "restaurant-hero",
+ "dining_districts": [
+  "the Atlantic Boulevard restaurant plazas",
+  "the State Road 7 corridor",
+  "the Margate City Center area"
+ ],
+ "kitchen_profile": [
+  "family diners and breakfast houses",
+  "Caribbean and Latin kitchens",
+  "pizzerias and neighborhood restaurants"
+ ],
+ "intro": [
+  "Margate eats breakfast. The city's Atlantic Boulevard and 441 plazas hold a dense run of diners, breakfast houses, and family restaurants that start cooking at dawn — plus a growing lineup of Caribbean, Peruvian, and Colombian kitchens that keep the corridor busy through dinner. City Center redevelopment is steadily adding to the roster.",
+  "Breakfast kitchens need produce before almost anyone else, and our 4 AM dispatch from Pompano Beach — barely ten minutes away — means Margate diners can receive before the first omelet ticket prints. Standing orders carry the potatoes, onions, peppers, and tomatoes a griddle kitchen burns through; split cases cover the fruit plates and specials."
+ ],
+ "route_note": "About 10–12 minutes from our Pompano Beach warehouse — among the earliest stops on the northwest run, in time for breakfast prep.",
+ "faqs_unique": [
+  {
+   "q": "Can Margate breakfast kitchens get produce before opening?",
+   "a": "Yes. Trucks dispatch at 4 AM from Pompano Beach ten minutes away — early receiving windows for diners and breakfast houses are standard here."
+  },
+  {
+   "q": "Do you deliver seven days a week in Margate?",
+   "a": "Yes. Weekend routes run like weekdays, which matters for breakfast houses whose biggest covers are Saturday and Sunday."
+  }
+ ],
+ "nearby": [
+  "coconut-creek",
+  "coral-springs",
+  "north-lauderdale",
+  "tamarac",
+  "pompano-beach"
+ ],
+ "cta_text": "Tell us your griddle staples and weekend volume — we will have a Margate breakfast kitchen stocked before the first ticket."
+}
