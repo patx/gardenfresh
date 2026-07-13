@@ -398,6 +398,8 @@ hr { border: 0; border-top: 1px solid var(--line); }
 .footer-brand .ic { display: inline; vertical-align: -0.2em; margin-right: 0.45rem; color: var(--lime); }
 .site-footer a { color: #fff; text-decoration: none; }
 .site-footer a:hover { color: var(--lime); text-decoration: underline; }
+.site-footer a.btn-light { color: var(--green-deep); }
+.site-footer a.btn-light:hover { color: var(--green-ink); text-decoration: none; }
 .footer-col h3 { color: var(--lime); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; }
 .footer-col ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.45rem; }
 .footer-col a { font-size: 0.95rem; }
