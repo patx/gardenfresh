@@ -88,6 +88,16 @@ def footer(ctx):
 </footer>"""
 
 
+def sticky_cta(ctx):
+    site = ctx["site"]
+    return f"""<div class="sticky-cta">
+  <div class="container sticky-cta-inner">
+    <p class="sticky-cta-text"><strong>Ready to order?</strong> Same-day wholesale delivery across Broward &amp; Palm Beach.</p>
+    <a class="btn btn-light btn-sm" href="tel:{site['phone_tel']}">{icon('phone')}Call {esc(site['phone_display'])}</a>
+  </div>
+</div>"""
+
+
 def page(ctx, *, path, title, description, body, graph, og_image=None, trail=None):
     """Assemble a complete HTML document."""
     head_html = head.render(ctx["site"], path=path, title=title,
@@ -107,6 +117,7 @@ def page(ctx, *, path, title, description, body, graph, og_image=None, trail=Non
 {body}
   </main>
   {footer(ctx)}
+  {sticky_cta(ctx)}
   <script src="assets/site.js" defer></script>
 </body>
 </html>

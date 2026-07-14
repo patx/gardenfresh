@@ -410,10 +410,34 @@ hr { border: 0; border-top: 1px solid var(--line); }
 }
 .footer-base p { margin: 0; }
 
+/* ---------- Sticky call CTA ---------- */
+.sticky-cta {
+  position: fixed; inset: auto 0 0 0; z-index: 40;
+  background: color-mix(in srgb, var(--green-deep) 94%, transparent);
+  backdrop-filter: blur(6px);
+  color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 -6px 24px rgba(18, 73, 43, 0.25);
+  padding-bottom: env(safe-area-inset-bottom, 0);
+  visibility: hidden; opacity: 0; transform: translateY(0.75rem);
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+}
+.sticky-cta.show { visibility: visible; opacity: 1; transform: translateY(0); }
+.sticky-cta-inner {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  padding-block: 0.7rem;
+}
+.sticky-cta-text { margin: 0; font-size: 0.95rem; }
+.sticky-cta-text strong { color: #fff; }
+.sticky-cta .btn { white-space: nowrap; }
+@media (max-width: 40rem) {
+  .sticky-cta-text { display: none; }
+  .sticky-cta-inner { justify-content: center; }
+}
+
 /* ---------- Motion preferences ---------- */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .btn, .card, .link-card, .card-link .ic, .faq summary::after, .nav-group summary::after { transition: none; }
+  .btn, .card, .link-card, .card-link .ic, .faq summary::after, .nav-group summary::after, .sticky-cta { transition: none; }
   .btn:hover, .card:hover, .link-card:hover { transform: none; }
   .ticker-track { animation: none; flex-wrap: wrap; width: auto; justify-content: center; }
   .ticker-row[aria-hidden] { display: none; }

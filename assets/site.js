@@ -33,6 +33,23 @@
     }
   });
 
+  // Sticky call CTA: fade in once the hero has scrolled out of view
+  const stickyCta = document.querySelector('.sticky-cta');
+  if (stickyCta) {
+    const hero = document.querySelector('.hero, .split-hero');
+    const show = (on) => stickyCta.classList.toggle('show', on);
+    if (hero && 'IntersectionObserver' in window) {
+      new IntersectionObserver(([entry]) => {
+        show(!entry.isIntersecting && entry.boundingClientRect.top < 0);
+      }).observe(hero);
+    } else {
+      // Pages without a hero (e.g. contact): show after a bit of scrolling
+      const onScroll = () => show(window.scrollY > 400);
+      window.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+    }
+  }
+
   async function submitForm(form, msgElement) {
     const honeypot = form.querySelector('input[name="_gotcha"]');
     if (honeypot && honeypot.value) return;
